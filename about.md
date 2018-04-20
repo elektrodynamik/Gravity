@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<h2>Gravity</h2>
+<h2>Gravity $ \frac{1}{x} $ </h2>
 <p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
@@ -15,6 +15,8 @@ published: true
   <strong>Posting</strong>
   </div>
 <p>  <div class="manual-content">
+  
+  $ \frac{1}{x} $
 
 ```
   - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
