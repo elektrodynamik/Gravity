@@ -1,7 +1,8 @@
 ---
 layout: page
-title : About
+title: '"Uberblick'
 permalink: /about/
+published: true
 ---
 
 <h2>Gravity</h2>
@@ -144,4 +145,3 @@ tagline: "It's all about perception."
   </div>
 </p>
 </div>
-
