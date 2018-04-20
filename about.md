@@ -7,4 +7,4 @@ published: true
 
 <h2>Test $ \frac{1}{x} $ </h2>
 
-$ \sum_{\forall i}{x_i^{2}} $
+$$ \sum_{\forall i}{x_i^{2}} $$
