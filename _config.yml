@@ -16,6 +16,6 @@ description: Vorlesungsnotizen
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
-plugins: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown,mathjax, katex]
 # Build settings
 markdown: kramdown
