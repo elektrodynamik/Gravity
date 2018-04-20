@@ -9,4 +9,4 @@ published: true
 
 \( \frac{1}{n^{2}} \)
 
-$$\frac{1}{x}$$
+Bla $$\frac{1}{x}$$ bla
