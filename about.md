@@ -25,6 +25,8 @@ published: true
     <pre>---
 ```
 
+$ \frac{1}{x} $
+
 layout: post | default | page
 title:  String<span class="hint"> Post Title</span>
 date:   Time Stamp
