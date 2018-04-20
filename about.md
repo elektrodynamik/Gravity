@@ -8,3 +8,4 @@ published: true
 <h2>Test $$\frac{1}{x}$$ </h2>
 
 
+$ \frac{x}{x} $
