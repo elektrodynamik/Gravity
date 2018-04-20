@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '"Uberblick'
+title: Überblick
 permalink: /about/
 published: true
 ---
