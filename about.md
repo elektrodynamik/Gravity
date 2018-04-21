@@ -7,8 +7,11 @@ published: true
 # Überblick
 
 1.	Maxwell-Gleichungen ( diff. Form $$ \Longleftrightarrow $$ int. Form)
+
 1.0
+
 1.1[Maxwell-Gleichungen Interpretationen](https://elektrodynamik.github.io/2018/04/17/1.1-Maxwell-Gleichungen-Interpretationen.html "Maxwell-Gleichungen Interpretationen und integrale Form")
+
 2.	Lösung via Eichpotentiale $$ (\phi , \vec A)  $$
 3.	Relativistische Formulierung der Elektrodynamik
 4.	Abstrahlphänomene
