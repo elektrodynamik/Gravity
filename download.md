@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-permalink: /download/
+permalink: /Sonstiges/
 tagline: Loved it? Download Gravity
 published: true
 ---
