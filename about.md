@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Überblick
-permalink: /about/
+permalink: /Überblick/
 published: true
 ---
 # Überblick
