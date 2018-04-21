@@ -13,10 +13,10 @@ published: true
 
 1.1[Maxwell-Gleichungen Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/17/1.1-Maxwell-Gleichungen-Interpretationen.html "Maxwell-Gleichungen Interpretationen und integrale Form")
 
-2.	Lösung via Eichpotentiale $$ (\phi , \vec A)  $$
-3.	Relativistische Formulierung der Elektrodynamik
-4.	Abstrahlphänomene
-5.	Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
-6.	Elektrodynamik in materiellen Medien
-7.	Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
-8.	Lagrange-Formalismus der Elektrodynamik
+### II Lösung via Eichpotentiale $$ (\phi , \vec A)  $$
+### III Relativistische Formulierung der Elektrodynamik
+### IV Abstrahlphänomene
+### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
+### VI Elektrodynamik in materiellen Medien
+### VII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
+### VIII Lagrange-Formalismus der Elektrodynamik
