@@ -1,6 +1,6 @@
 ---
 layout: post
-title: $$ \Rn 1 $$
+title: 1. Maxwell-Gleichungen
 date: '2016-03-30 19:45:31 +0530'
 categories: jekyll update
 published: true
