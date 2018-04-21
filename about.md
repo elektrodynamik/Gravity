@@ -4,8 +4,14 @@ title: Überblick
 permalink: /about/
 published: true
 ---
-## Hello 
+# Überblick
+
+1.	Maxwell-Gleichungen ( diff. Form $$ \Longrightarrow $$ int. Form)
+2.	Lösung via Eichpotentiale $$ (\phi , \vec(A) ) $$
+3.	Relativistische Formulierung der Elektrodynamik
+4.	Abstrahlphänomene
+5.	Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
+6.	Elektrodynamik in materiellen Medien
 
 
 
-$$ \theta $$
