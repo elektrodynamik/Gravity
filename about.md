@@ -6,7 +6,7 @@ published: true
 ---
 # Überblick
 
-1.	Maxwell-Gleichungen ( diff. Form $$ \Longrightarrow $$ int. Form)
+1.	Maxwell-Gleichungen ( diff. Form $$ \Longleftrightarrow $$ int. Form)
 2.	Lösung via Eichpotentiale $$ (\phi , (\vec A) ) $$
 3.	Relativistische Formulierung der Elektrodynamik
 4.	Abstrahlphänomene
