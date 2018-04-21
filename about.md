@@ -12,6 +12,8 @@ published: true
 4.	Abstrahlphänomene
 5.	Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
 6.	Elektrodynamik in materiellen Medien
+7.	Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
+8.	Lagrange-Formalismus der Elektrodynamik
 
 
 
