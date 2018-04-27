@@ -51,3 +51,6 @@ Finden wir für gegebenes $$ \vec E, \vec B $$ ein $$ \phi, \vec A $$ ? Ja.
 
 Sind $$ \phi, \vec A $$ eindeutig? Nein.
 
+Homogene Gleichungen ( (II),(III) ) ) direkt erfüllt:
+
+$$ \vec \nabla \wedge \vec E =^{A} - \partial_{ct} \vec \nabla \wedge \vec A =^{A} -\partial_{ct} \vec B \Rightarrow \text{ (II) }$$ 
