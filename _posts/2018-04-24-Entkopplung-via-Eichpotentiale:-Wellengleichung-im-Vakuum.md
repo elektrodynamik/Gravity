@@ -15,4 +15,4 @@ Symmetrie: $$ \vec E \mapsto \vec B, \vec B \mapsto \vec E $$
 
 $$\vec \nabla \wedge (II) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \vec E) + \partial_{ct} \vec \nabla \wedge \vec B = \vec 0$$
 
-$$ \require{cancel} \rightarrow \vec \nabla (\cancelto{0}{\vec \nabla \vec E})$$
+$$ \require{cancel} \rightarrow \vec \nabla (\cancelto{0}{\vec \nabla \vec E}) - \Delta \vec $$
