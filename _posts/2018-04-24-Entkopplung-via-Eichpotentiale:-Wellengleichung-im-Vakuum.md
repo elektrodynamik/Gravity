@@ -26,3 +26,5 @@ $$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec B}) - \Del
 ---
 $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec E (\vec x,t) = \vec 0 $$
 $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec B (\vec x,t) = \vec 0 $$
+
+---
