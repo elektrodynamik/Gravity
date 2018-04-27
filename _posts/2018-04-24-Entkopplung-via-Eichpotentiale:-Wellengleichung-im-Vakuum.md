@@ -23,6 +23,6 @@ $$\vec \nabla \wedge (IV) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \ve
 
 $$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec B}) - \Delta \vec B + \partial_{ct}^2 \vec B =  \vec 0 $$ 
 
-
 ---
-$$ \rightarrow (-\Delta + \partial_{ct}^2) \vec E (\vec x,t) = 0 $$
+$$ \rightarrow (-\Delta + \partial_{ct}^2) \vec E (\vec x,t) = \vec 0 $$
+$$ \rightarrow (-\Delta + \partial_{ct}^2) \vec B (\vec x,t) = \vec 0 $$
