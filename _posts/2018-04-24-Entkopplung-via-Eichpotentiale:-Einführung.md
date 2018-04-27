@@ -31,3 +31,8 @@ Fazit: Vakuum-Wellenausbreitung ist isotrop und mit Geschwindigkeit c.
 
 ---
 #### 2.2 Eichpotentiale
+
+- (I) $$ \vec \nabla \vec E = 4 \pi \rho $$ 
+- (II) $$ \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0 $$
+- (III) $$ \vec \nabla \vec B  = 0 $$
+- (IV) $$ \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \vec 0 $$
