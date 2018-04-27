@@ -19,9 +19,9 @@ $$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec E}) - \Del
 
 _Bemerkung_: $$ \vec \nabla \wedge \vec E = \partial_{ct} \vec E \ \text{nach (IV)}$$ 
 
-$$\vec \nabla \wedge (IV) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \vec B) - \partial_{ct} \vec \nabla \wedge \vec E = \vec 0$$
+ $$\vec \nabla \wedge (IV) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \vec B) - \partial_{ct} \vec \nabla \wedge \vec E = \vec 0$$
 
-$$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec B}) - \Delta \vec B + \partial_{ct}^2 \vec B =  \vec 0 $$ nach (II)
+ $$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec B}) - \Delta \vec B + \partial_{ct}^2 \vec B =  \vec 0 $$ nach (II)
 
 ---
 $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec E (\vec x,t) = 0 $$
