@@ -23,8 +23,9 @@ $$\vec \nabla \wedge (IV) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \ve
 
 $$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec B}) - \Delta \vec B + \partial_{ct}^2 \vec B =  \vec 0 $$ 
 
----
+
 $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec E (\vec x,t) = \vec 0 $$
+
 $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec B (\vec x,t) = \vec 0 $$
 
 Fazit: Vakuum-Wellenausbreitung ist isotrop und mit Geschwindigkeit c.
@@ -44,4 +45,4 @@ Erster Schritt in Richtung der Entkopplung durch Ansatz (A):
 
 $$ \vec E (\vec x, t) = - \vec \nabla \phi(\vec x, t) - \partial_{ct} \vec A (\vec x, t) $$
 
-$$ 
+$$ \vec B(\vec x, t) = $$
