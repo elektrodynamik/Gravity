@@ -13,7 +13,7 @@ published: true
 
 1.1[Maxwell-Gleichungen Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/17/1.1-Maxwell-Gleichungen-Interpretationen.html "Maxwell-Gleichungen: Interpretationen und integrale Form")
 
-1.2[Maxwell-Gleichungen Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/19/1.2-Maxwell-Gleichungen-Erhaltungssätze.html"Maxwell-Gleichungen: Erhaltungssätze")
+1.2[Maxwell-Gleichungen Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/19/1.2-Maxwell-Gleichungen-Erhaltungssätze.html "Maxwell-Gleichungen: Erhaltungssätze")
 
 https://elektrodynamik.github.io/2018/04/19/1.2-Maxwell-Gleichungen-Erhaltungssätze.html
 
