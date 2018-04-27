@@ -1,4 +1,4 @@
 ---
 published: false
 ---
-## 2.1 Lösung via Eichpotentiale: Eichpotentiale
+## 2.0 Lösung via Eichpotentiale: Eichpotentiale
