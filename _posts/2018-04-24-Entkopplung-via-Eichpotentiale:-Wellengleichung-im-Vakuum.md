@@ -12,3 +12,5 @@ Vakuum heißt: $$ \rho = 0, \vec j = \vec 0 $$. d.h. keine Ladung und somit ist 
 
 
 Symmetrie: $$ \vec E \mapsto \vec B, \vec B \mapsto \vec E $$ 
+
+$$\vec \nabla \wedge (II)$$
