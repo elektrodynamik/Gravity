@@ -72,4 +72,4 @@ $$ \Righarrow $$ Immer noch gekoppelt, Besserung druch Nebenbedingungen (NB)?
 ---
 ## 2.3. Eichbedingungen = NB
 
-**Definiton**: Für beliebige  
+**Definiton**: Für beliebige ... 
