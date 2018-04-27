@@ -61,4 +61,4 @@ Inhomogene Gleichungen sind immer noch gekoppelt:
 
 (I) $$ \Rightarrow  -\Delta \phi - \partial_{ct} \vec \nabla \vec A = 4\pi \rho$$
 
-(II) $$ \
+(II) $$ \Rightarrow $$
