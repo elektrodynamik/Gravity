@@ -45,4 +45,9 @@ Erster Schritt in Richtung der Entkopplung durch Ansatz (A):
 
 $$ \vec E (\vec x, t) = - \vec \nabla \phi(\vec x, t) - \partial_{ct} \vec A (\vec x, t) $$
 
-$$ \vec B(\vec x, t) =  ( \vec \nabla \wedge \vec A) (\vec x, t)  $$
+$$ \vec B(\vec x, t) =  ( \vec \nabla \wedge \vec A) (\vec x, t)$$
+
+Finden wir für gegebenes $$ \vec E, \vec B $$ ein $$ \phi, \vec A $$ ? Ja.
+
+Sind $$ \phi, \vec A $$ eindeutig? Nein.
+
