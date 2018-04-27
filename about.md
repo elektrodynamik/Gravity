@@ -15,8 +15,8 @@ published: true
 
 1.2[Maxwell-Gleichungen: Erhaltungssätze](https://elektrodynamik.github.io/2018/04/19/1.2-Maxwell-Gleichungen-Erhaltungssätze.html "Maxwell-Gleichungen: Erhaltungssätze")
 
-
 ### II Lösung via Eichpotentiale $$ (\phi , \vec A)  $$
+
 ### III Relativistische Formulierung der Elektrodynamik
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
