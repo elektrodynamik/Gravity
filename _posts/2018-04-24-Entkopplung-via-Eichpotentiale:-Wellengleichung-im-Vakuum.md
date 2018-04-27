@@ -5,5 +5,5 @@ published: false
 
 Vakuum heißt: $$ \rho = 0, \vec j = \vec 0 $$. d.h. keine Ladung und somit ist die Entkopplung einfach:
 
-- (I) $$ \vec \nabla \vec E = 0, $$
-- (II) $$ \vec \nabla \vec B = 0, $$
+- (I) $$ \vec \nabla \vec E = 0 $$
+- (II) $$ \vec \nabla \vec B = 0 $$
