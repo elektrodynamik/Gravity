@@ -59,4 +59,6 @@ $$ \vec \nabla \cdot \vec B =^{A} 0 \Rightarrow \text{ (III) }$$
 
 Inhomogene Gleichungen sind immer noch gekoppelt: 
 
-(I) $$ \Righarrow  -\Delta \phi - \partial_{ct} \vec \nabla \vec A = 4\pi \rho$$
+(I) $$ \Rightarrow  -\Delta \phi - \partial_{ct} \vec \nabla \vec A = 4\pi \rho$$
+
+(II) $$ \
