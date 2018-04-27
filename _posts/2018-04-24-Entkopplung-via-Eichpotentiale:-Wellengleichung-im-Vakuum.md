@@ -23,7 +23,6 @@ $$\vec \nabla \wedge (IV) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \ve
 
 $$ \require{cancel} \rightarrow \vec \nabla (\cancel{\vec \nabla \vec B}) - \Delta \vec B + \partial_{ct}^2 \vec B =  \vec 0 $$ nach (II)
 
-a
 
 ---
 $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec E (\vec x,t) = 0 $$
