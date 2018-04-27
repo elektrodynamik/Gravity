@@ -11,4 +11,4 @@ Vakuum heißt: $$ \rho = 0, \vec j = \vec 0 $$. d.h. keine Ladung und somit ist 
 - (IV) $$ \vec \nabla \wedge \vec B - \partial_{ct} \vec E = 0$$
 
 
-Symmetrie: $$ \vec E \mapsto \vec B$, $ 
+Symmetrie: $$ \vec E \mapsto \vec B, $$ 
