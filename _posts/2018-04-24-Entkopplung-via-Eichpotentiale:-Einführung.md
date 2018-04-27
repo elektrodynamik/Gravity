@@ -53,4 +53,6 @@ Sind $$ \phi, \vec A $$ eindeutig? Nein.
 
 Homogene Gleichungen ( (II),(III) ) ) direkt erfüllt:
 
-$$ \vec \nabla \wedge \vec E =^{A} - \partial_{ct} \vec \nabla \wedge \vec A =^{A} -\partial_{ct} \vec B \Rightarrow \text{ (II) }$$ 
+$$ \vec \nabla \wedge \vec E =^{A} - \partial_{ct} \vec \nabla \wedge \vec A =^{A} -\partial_{ct} \vec B \Rightarrow \text{ (II) }$$
+
+$$ \vec \nabla \cdot \vec B =^{A} 0 \Rightarrow \text{ (III) }$$ 
