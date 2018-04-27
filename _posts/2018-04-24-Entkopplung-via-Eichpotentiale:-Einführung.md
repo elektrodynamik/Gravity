@@ -31,7 +31,7 @@ $$ \rightarrow (-\Delta + \partial_{ct}^2) \vec B (\vec x,t) = \vec 0 $$
 Fazit: Vakuum-Wellenausbreitung ist isotrop und mit Geschwindigkeit c.
 
 ---
-#### 2.2 Eichpotentiale
+## 2.2 Eichpotentiale
 ---
 - (I) $$ \vec \nabla \vec E = 4 \pi \rho $$ 
 - (II) $$ \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0 $$
