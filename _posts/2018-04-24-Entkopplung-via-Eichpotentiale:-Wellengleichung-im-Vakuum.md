@@ -17,4 +17,5 @@ $$\vec \nabla \wedge (II) \Rightarrow \vec \nabla \wedge (\vec \nabla \wedge \ve
 
 $$ \require{cancel} \rightarrow \vec \nabla (\cancelto{0}{\vec \nabla \vec E}) - \Delta \vec E + \partial_{ct}^2 \vec E =  \vec 0 $$
 
-_Bemerkung_: $$ \vec \nabla \wedge \vec E = \partial_{ct} \vec E $ 
+_Bemerkung_: $$ \vec \nabla \wedge \vec E = \partial_{ct} \vec E $$ nach (IV)
+
