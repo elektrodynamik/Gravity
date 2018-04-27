@@ -69,3 +69,7 @@ $$ \Rightarrow $$ Wir erhalten 4 Gleichungen für 4 Größen $$ (\phi,\vec A) $$
 
 $$ \Righarrow $$ Immer noch gekoppelt, Besserung druch Nebenbedingungen (NB)?
 
+---
+## 2.3. Eichbedingungen = NB
+
+**Definiton**: Für beliebige  
