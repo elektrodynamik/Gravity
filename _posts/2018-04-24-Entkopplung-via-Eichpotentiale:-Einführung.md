@@ -154,3 +154,6 @@ $$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive ho
 ## 2.4 Poisson $$ \Leftrightarrow$$ D'Alambert
 
 ---
+
+
+**Definition**: $$ \box  = -\Delta + \partial_{ct}^2$$ ('D'Alambert-Operator')  
