@@ -158,6 +158,10 @@ $$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive ho
 
 **Definition**: $$ \box  = -\Delta + \partial_{ct}^2$$ ('D'Alambert-Operator')
 
-_Bemerkung_: In Lorenz-Eichung [ $$ \box (\phi,\vec A) $$ = 0 ] sind (I) und (IV) entkoppelt:
+_Bemerkung_: In Lorenz-Eichung [ $$ (\partial_{ct},\vec \nabla) (\phi,\vec A) $$ = 0 ] sind (I) und (IV) entkoppelt:
 
 $$ \require{boxed} \boxed{ \text{D'Alambert-Problem} \\ \box \phi (\vec x,t) = 4 \pi \rho (\vec x,t) \\ \box \vec A (\vec x,t) = \dfrac{4 \pi}{c} \vec j (\vec x,t)} $$
+
+_Bemerkung_: Etablierung der L-NB führt auf:
+
+$$ \box \chi (\vec x,t) = \partial_{ct}
