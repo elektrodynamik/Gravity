@@ -101,6 +101,12 @@ $$ ( (IV) -C ) - \Delta \vec A (\vec x, t) + \partial_{ct}^2 \vec A(\vec x,t) = 
 
 (I-C) heißt Poisson-Gleichung (analog Elektrostatik/Gravitationsphysik) 
 
-Allgemeine Lösung:
+**Allgemeine Lösung:**
 
 $$ \require{boxed} \require{cancel} \boxed{\phi(\vec x,t) = \int \dfrac{\rho (\vec x,t) }{\mid\vec x -\vec x'\mid} {\rm d}^3 x' + \phi_{\rm hom} (\vec x, t) \\ \Rightarrow \phi_{\rm part.} - \Delta \cancelto{0}{ \phi_{\rm hom.} } = \phi } $$
+
+_Bemerkung_: $$ \phi_{\rm part.} $$ ist nicht relativistisch invariant, ein modifiziertes $$ \rho (\vec x, t) $$ ergibt ein modifiziertes $$ \phi (\vec x, t) $$ . Hierbei bezeichnet $$ \vec x \Leftrightarrow \vec x' $$ eine _instantane Fernwirkung_.
+
+_Bemerkung_: C-NB ist nicht relativistisch invariant.
+
+Neue rechte Seite von (IV - C) enthält $$ \vec j_{\perp}$$ von $$ \vec j$$ , wo $$ \vec j = \vec j_{\parallel} $$
