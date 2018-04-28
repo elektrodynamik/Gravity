@@ -113,4 +113,6 @@ Neue rechte Seite von (IV - C) enthält $$ \vec j_{\perp}$$ von $$ \vec j$$ , wo
 
 $$\vec \nabla \dfrac{\rm d}{\rm d t} \phi = \vec \nabla \int \dfrac{- \vec \nabla \vec j(\vec x,t)}{\mid\vec x - \vec x'\mid} {\rm d}^3 x' = \dfrac{4 \pi}{c} \vec j_{\parallel} (\vec x,t) $$
 
-**Definiton**: $$ \phi, \vec A$$ in Lorenzeichung, falls \partial_{ct} \phi (\vec x,t)$$ 
+**Definiton**: $$ \phi, \vec A$$ in Lorenzeichung, falls 
+
+\partial_{ct} \phi (\vec x,t) + \vec \nabla$$ 
