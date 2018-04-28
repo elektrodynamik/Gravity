@@ -115,4 +115,4 @@ $$\vec \nabla \dfrac{\rm d}{\rm d t} \phi = \vec \nabla \int \dfrac{- \vec \nabl
 
 **Definiton**: $$ \phi, \vec A$$ in Lorenzeichung, falls 
 
-\partial_{ct} \phi (\vec x,t) + \vec \nabla$$ 
+\partial_{ct} \phi (\vec x,t) + \vec \nabla \cdot \vec A (\vec x,t) = 0$$ 
