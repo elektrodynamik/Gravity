@@ -9,9 +9,9 @@ published: true
 
 ### I Maxwell-Gleichungen ( diff. Form $$ \Longleftrightarrow $$ int. Form)
 
-1.0 [Maxwell-Gleichungen: Einführung](https://elektrodynamik.github.io/2018/04/12/1.0-Maxwell-Gleichungen-Einführung.html "Maxwell-Gleichungen: Einführung")
+1.0 [Einführung](https://elektrodynamik.github.io/2018/04/12/1.0-Maxwell-Gleichungen-Einführung.html "Maxwell-Gleichungen: Einführung")
 
-1.1 [Maxwell-Gleichungen: Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/17/1.1-Maxwell-Gleichungen-Interpretationen.html "Maxwell-Gleichungen: Interpretationen und integrale Form")
+1.1 [Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/17/1.1-Maxwell-Gleichungen-Interpretationen.html "Maxwell-Gleichungen: Interpretationen und integrale Form")
 
 1.2 [Maxwell-Gleichungen: Erhaltungssätze](https://elektrodynamik.github.io/2018/04/19/1.2-Maxwell-Gleichungen-Erhaltungssätze.html "Maxwell-Gleichungen: Erhaltungssätze")
 
