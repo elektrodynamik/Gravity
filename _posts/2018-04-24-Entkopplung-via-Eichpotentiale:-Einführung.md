@@ -156,7 +156,7 @@ $$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive ho
 ---
 
 
-**Definition**: $$ \box  = -\Delta + \partial_{ct}^2$$ ('D'Alembert-Operator')
+**Definition**: $$ \square  = -\Delta + \partial_{ct}^2$$ ('D'Alembert-Operator')
 
 _Bemerkung_: In Lorenz-Eichung [ $$ (\partial_{ct},\vec \nabla) \cdot (\phi,\vec A) $$ = 0 ] sind (I) und (IV) entkoppelt:
 
