@@ -148,4 +148,9 @@ $$ 0 =^! \partial_{ct} \phi' +\vec \nabla \vec A' = \partial_{ct} \phi -\partial
 
 $$ \Rightarrow (-\Delta + \partial_{ct}^2) \chi = \partial_{ct} \phi +\vec \nabla \vec A $$
 
-$$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential
+$$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive homogenen Anteil.
+
+---
+## 2.4 Poisson $$ \Leftrightarrow$$ D'Alambert $$
+
+---
