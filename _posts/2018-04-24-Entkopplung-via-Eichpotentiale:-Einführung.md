@@ -160,4 +160,4 @@ $$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive ho
 
 _Bemerkung_: In Lorenz-Eichung [ $$ \box (\phi,\vec A) $$ = 0 ] sind (I) und (IV) entkoppelt:
 
-$$ \require{boxed} \boxed{ \box \phi (\vec x,t) = 4 \pi \rho (\vec x,t) \\ \box \vec A (\vec x,t) = \dfrac{4 \pi}{c} \vec j (\vec x,t) $$
+$$ \require{boxed} \boxed{ \text{D'Alambert-Problem} \\ \box \phi (\vec x,t) = 4 \pi \rho (\vec x,t) \\ \box \vec A (\vec x,t) = \dfrac{4 \pi}{c} \vec j (\vec x,t)} $$
