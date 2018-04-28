@@ -81,3 +81,6 @@ _Bemerkung_:
 - $$ \vec E' = -\vec \nabla \phi' - \partial_{ct} \vec A' = -\vec \nabla \phi +\partial_{ct} \vec A - \partial_{ct} \vec \nabla \chi = \vec E$$
 - $$ \require{cancel} \vec B' = \vec \nabla \wedge \vec A' = \vec \nabla \wedge \vec A + \cancel{\vec \nabla \wedge (\vec \nabla \chi)} =  \vec B$$ 
 
+$$\Rightarrow$$ (I) - (IV) (lassen alle Physik) invariant unter Eichtransformation
+
+$$\Righarrow$$ $$\phi , \vec A$$ sind nicht direkt beobachtbar, nichtsdestotrotz Behandlung als Observable in der Quantenmechanik ('Aharonov-Bohm-Effekt').
