@@ -122,4 +122,4 @@ _Bemerkung_: Mit L-NB folgt aus NB-Gleichungen
 - $$ (I-L) (-\Delta + \partial_{ct}^2) \phi (\vec x,t) = 4 \pi \rho (\vec x,t) $$
 - $$ (I-L) (-\Delta + \partial_{ct}^2) \vec A (\vec x',t) = \dfrac{4 \pi}{c} \vec j (\vec x,t) $$
 
-$$ \Rightarrow $$ Wellengleichung für $$ 
+$$ \Rightarrow $$ Wellengleichung für $$ \phi $$
