@@ -71,4 +71,4 @@ $$ \Rightarrow $$ Immer noch gekoppelt, Besserung druch Nebenbedingungen (NB)?
 ---
 ## 2.3. Eichbedingungen
 ---
-**Definiton**: Für beliebige $$ \chi $$
+**Definiton**: Für beliebige $$ \chi (\vec x,t) \in \mathbb{R} $$
