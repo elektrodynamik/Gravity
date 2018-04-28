@@ -1,5 +1,5 @@
 ---
 published: false
 ---
-## Entkopplung via Eichpotentiale: Greensche-Funktionen
+## Entkopplung via Eichpotentiale: Greensche-Funktion
 
