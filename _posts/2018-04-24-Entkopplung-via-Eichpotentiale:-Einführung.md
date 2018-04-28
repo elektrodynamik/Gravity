@@ -84,4 +84,10 @@ _Bemerkung_:
 $$\Rightarrow$$ (I) - (IV) (lassen alle Physik) invariant unter Eichtransformation
 
 $$\Rightarrow \phi , \vec A$$ sind nicht direkt beobachtbar, nichtsdestotrotz Behandlung als Observable in der Quantenmechanik ('Aharonov-Bohm-Effekt').
-$$\Rightarrow$$ Die Wahl von $$ \chi $$ eröffnet die Möglichkeit zur cleveren (d.h. situationsangepassten) Entkopplung von (I) und (IV). 
+$$\Rightarrow$$ Die Wahl von $$ \chi $$ eröffnet die Möglichkeit zur cleveren (d.h. situationsangepassten) Entkopplung von (I) und (IV).
+
+$$ \Rightarrow$$ Populäre Eichungen: Coulomb, Lorenz.
+
+**Definition**: $$ \phi ,\vec A $$ in Coulombeichung, falls 
+
+$$ \require{fbox} \fbox{ \phi \text{beliebig}, \vec \nabla \cdot \vec A = 0 }$$
