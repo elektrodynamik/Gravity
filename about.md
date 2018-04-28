@@ -17,7 +17,7 @@ published: true
 
 ### II Lösung via Eichpotentiale $$ (\phi , \vec A)  $$
 
-1.2[Einführung](https://elektrodynamik.github.io/2018/04/24/2.0-Entkopplung-via-Eichpotentiale-Einführung.html "Maxwell-Gleichungen: Erhaltungssätze")
+1.2[Einführung](https://elektrodynamik.github.io/2018/04/24/2.0-Entkopplung-via-Eichpotentiale-Einführung.html "Entkopplung via Eichpotentiale: Einführung")
 
 
 https://elektrodynamik.github.io/2018/04/24/2.0-Entkopplung-via-Eichpotentiale-Einführung.html
