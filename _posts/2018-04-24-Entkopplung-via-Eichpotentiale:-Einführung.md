@@ -103,4 +103,4 @@ $$ ( (IV) -C ) - \Delta \vec A (\vec x, t) + \partial_{ct}^2 \vec A(\vec x,t) = 
 
 Allgemeine Lösung:
 
-$$ \require{boxed} \boxed{\phi(\vec x,t) = \int \dfrac{\rho (\vec x,t) }{\mid\vec x -\vec x'\mid} {\rm d}^3 x' + \phi_{\rm hom} (\vec x, t) \\ \Rightarrow \phi_{\rm part.} - \Delta \phi_{\rm hom.} = 0 }$$
+$$ \center \require{boxed} \boxed{\phi(\vec x,t) = \int \dfrac{\rho (\vec x,t) }{\mid\vec x -\vec x'\mid} {\rm d}^3 x' + \phi_{\rm hom} (\vec x, t) \\ \Rightarrow \phi_{\rm part.} - \Delta \phi_{\rm hom.} = 0 }$$
