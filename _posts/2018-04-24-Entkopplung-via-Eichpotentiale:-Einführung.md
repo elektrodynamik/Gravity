@@ -174,4 +174,6 @@ $$ f(\vec x,t) = f_{\rm part.} (\vec x,t} + f_{\rm hom.} (\vec x,t)$$
 
 mit:
 
-$$ f_{\rm part.} (\vec x,t} = \int \dfrac{g(\vec x,t)}{\mid \vec x - \vec x'\mid} $$
+$$ f_{\rm part.} (\vec x,t} = \int \dfrac{g(\vec x,t)}{\mid \vec x - \vec x'\mid} {\rm d}^3 x'$$
+
+für $$ \Delta f_{\rm hom.} (\vec x,t} = 0$$ und $$ -\Delta \dfrac{1}{\mid\vec x - \vec x'\mid} = 4 \pi \delta (\vec x - \vec x') §§
