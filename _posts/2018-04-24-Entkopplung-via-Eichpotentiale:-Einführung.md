@@ -92,3 +92,5 @@ $$ \Rightarrow$$ Populäre Eichungen: Coulomb, Lorenz.
 **Definition**: $$ \phi ,\vec A $$ in Coulombeichung, falls 
 
 $$ \require{boxed} \boxed{ \phi \ \text{beliebig}, \vec \nabla \cdot \vec A = 0 }$$ ('C')
+
+
