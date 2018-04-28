@@ -168,4 +168,6 @@ $$ \box \chi (\vec x,t) = \partial_{ct} \phi +\vec \nabla \vec A $$
 
 Das heißt nochmals ein D'Alambert-Problem.
 
-_Bemerkung_: Poisson Problem $$ -\nabla f(\vec x,t) = 4 \pi g(\vec x,t)
+_Bemerkung_: Poisson Problem $$ -\nabla f(\vec x,t) = 4 \pi g(\vec x,t)$$ gelöst durch:
+
+$$ f(\vec x,t) = f_{\rm \part}
