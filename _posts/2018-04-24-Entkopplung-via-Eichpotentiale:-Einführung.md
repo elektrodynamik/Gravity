@@ -146,4 +146,6 @@ _Bemerkung_: L-NB immer erzielbar und nicht eindeutig:
 
 $$ 0 =^! \partial_{ct} \phi' +\vec \nabla \vec A' = \partial_{ct} \phi -\partial_{ct}^2 \chi +\vec \nabla \vec A + \Delta \chi$$
 
-$$ \Rightarrow (-\Delta + \partial_{ct}^2) \chi = \partial_{ct} $$
+$$ \Rightarrow (-\Delta + \partial_{ct}^2) \chi = \partial_{ct} \phi +\vec \nabla \vec A $$
+
+$$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential
