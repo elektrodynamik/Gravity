@@ -97,4 +97,4 @@ _Bemerkung_: Mit C-Eichung folgt aus (NB-Gleichungen)
 
 $$ ( (I) - C) - \Delta \phi (\vec x,t) = 4 \pi \rho (\vec x, t) $$
 
-$$ ( (IV) -C ) - \Delta \vec A (\vec x, t) + \partial_{ct}^2 \vec A(\vec x,t)
+$$ ( (IV) -C ) - \Delta \vec A (\vec x, t) + \partial_{ct}^2 \vec A(\vec x,t) = \dfrac{4 \pi}{c} \vec j - \partial_{ct} \vec \nabla \phi (\vec x,t)
