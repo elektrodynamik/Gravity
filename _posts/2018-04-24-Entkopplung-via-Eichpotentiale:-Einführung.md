@@ -138,3 +138,5 @@ _Bemerkung_: C-NB immer erzielbar und nicht eindeutig:
 
 $$ 0 =^! \vec \nabla \cdot \vec A' = \vec \nabla \cdot \vec A + \Delta A \chi $$ 
 
+$$ \Rightarrow -\Delta \chi = \vec \nabla \vec A$$
+
