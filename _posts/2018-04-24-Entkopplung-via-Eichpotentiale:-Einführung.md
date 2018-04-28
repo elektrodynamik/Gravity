@@ -165,3 +165,7 @@ $$ \require{boxed} \boxed{ \text{D'Alambert-Problem} \\ \box \phi (\vec x,t) = 4
 _Bemerkung_: Etablierung der L-NB führt auf:
 
 $$ \box \chi (\vec x,t) = \partial_{ct} \phi +\vec \nabla \vec A $$
+
+Das heißt nochmals ein D'Alambert-Problem.
+
+_Bemerkung_: Poisson Problem $$ -\nabla f(\vec x,t) = 4 \pi g(\vec x,t)
