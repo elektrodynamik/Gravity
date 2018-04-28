@@ -76,3 +76,6 @@ $$ \Rightarrow $$ Immer noch gekoppelt, Besserung druch Nebenbedingungen (NB)?
 - $$\vec A (\vec x,t) \rightarrow \vec A'(\vec x,t) = \vec A (\vec x,t) -\vec \nabla \vec A (\vec x,t)$$
 
 die Felder $$ \vec E, \vec B $$ invariant (' $$ \Leftrightarrow 'neu' ) 
+
+_Bemerkung_:
+
