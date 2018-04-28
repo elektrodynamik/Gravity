@@ -77,5 +77,5 @@ $$ \Rightarrow $$ Immer noch gekoppelt, Besserung druch Nebenbedingungen (NB)?
 
 die Felder $$ \vec E, \vec B $$ invariant (' $$ \Leftrightarrow$$ 'neu' ) 
 
-_Bemerkung_: $$ \vec E' = -\vec \nabla \phi' - \partial_{ct} \vec A'$$
+_Bemerkung_: $$ \vec E' = -\vec \nabla \phi' - \partial_{ct} \vec A' = -\vec \nabla \phi +\partial_{ct} \vec A - \partial_{ct} \vec \nabla \chi = E$$
 
