@@ -123,3 +123,5 @@ _Bemerkung_: Mit L-NB folgt aus NB-Gleichungen
 - $$ (I-L) (-\Delta + \partial_{ct}^2) \vec A (\vec x',t) = \dfrac{4 \pi}{c} \vec j (\vec x,t) $$
 
 $$ \Rightarrow $$ Wellengleichung für $$ \phi, \vec A $$ (4 Gleichungen für 4 Unbekannte).
+
+$$ \Rightarrow $$ Enkopplung ist total d.h. ohne $$\perp$$-Anteil.
