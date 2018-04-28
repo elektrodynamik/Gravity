@@ -95,4 +95,4 @@ $$ \require{boxed} \boxed{ \phi \ \text{beliebig}, \vec \nabla \cdot \vec A = 0 
 
 _Bemerkung_: Mit C-Eichung folgt aus (NB-Gleichungen)
 
-$$ ( (I) - C)
+$$ ( (I) - C) - \Delta \phi (\vec x,t) = 4 \pi \rho (\vec x, t)
