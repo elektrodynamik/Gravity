@@ -136,5 +136,5 @@ L-NB ist relativistisch invariant!
 
 _Bemerkung_: C-NB immer erzielbar und nicht eindeutig:
 
-$$ 0 =^! \vec \nabla \cdot \vec A'
+$$ 0 =^! \vec \nabla \cdot \vec A' 
 
