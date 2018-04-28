@@ -164,7 +164,7 @@ $$ \require{boxed} \boxed{ \text{D'Alembert-Problem} \\ \box \phi (\vec x,t) = 4
 
 _Bemerkung_: Etablierung der L-NB führt auf:
 
-$$ \box \chi (\vec x,t) = \partial_{ct} \phi +\vec \nabla \vec A $$
+$$ \square \chi (\vec x,t) = \partial_{ct} \phi +\vec \nabla \vec A $$
 
 Das heißt nochmals ein D'Alembert-Problem.
 
