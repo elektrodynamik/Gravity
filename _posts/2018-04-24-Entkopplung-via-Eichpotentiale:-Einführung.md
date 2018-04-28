@@ -128,4 +128,4 @@ $$ \Rightarrow $$ Entkopplung ist total d.h. ohne $$\perp$$-Anteil.
 
 $$ \Rightarrow $$ Allgemeine Lösung via retardierter Potential (siehe später {GREENSCHE-FUNKTION}). D.h. :
 
-$$ \phi (\vec x,t) \leftarrow \rho (\vec x',t)_{ \rm ret.} $$  
+$$ \phi (\vec x,t) \leftarrow \rho (\vec x',t)_{ \rm ret.} $$ 
