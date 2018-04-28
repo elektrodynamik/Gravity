@@ -130,7 +130,7 @@ $$ \Rightarrow $$ Allgemeine Lösung via retardierter Potential (siehe später {
 
 $$ \phi (\vec x,t) \leftarrow \rho (\vec x',t_{ \rm ret.}) $$ mit $$ t_{ \rm ret.} = t - \dfrac{\mid \vec x -\vec x'\mid}{c}$$ 
 
-$$ \vec A (\vec x,t) \leftarrow \vec j (\vec x',t_{ \rm ret.}) $$ mit $$ t_{ \rm ret.} = t - \dfrac{\mid \vec x -\vec x' \mid}{c}$$ 
+$$ \vec A (\vec x,t) \leftarrow \vec j (\vec x',t_{ \rm ret.}) $$ mit $$ t_{ \rm ret.} = t - \dfrac{\mid \vec x -\vec x'\mid}{c}$$ 
 
 L-NB ist relativistisch invariant!
 
