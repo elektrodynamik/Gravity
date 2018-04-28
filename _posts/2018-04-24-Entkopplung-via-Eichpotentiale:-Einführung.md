@@ -125,3 +125,5 @@ _Bemerkung_: Mit L-NB folgt aus NB-Gleichungen
 $$ \Rightarrow $$ Wellengleichung für $$ \phi, \vec A $$ (4 Gleichungen für 4 Unbekannte).
 
 $$ \Rightarrow $$ Entkopplung ist total d.h. ohne $$\perp$$-Anteil.
+
+$$ \Rightarrow $$ Allgemeine Lösung via retardierter Potential (siehe später {GREENSCHE-FUNKTIONEN} )
