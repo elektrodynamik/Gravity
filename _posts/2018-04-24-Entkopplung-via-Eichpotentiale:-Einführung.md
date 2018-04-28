@@ -166,7 +166,7 @@ _Bemerkung_: Etablierung der L-NB führt auf:
 
 $$ \box \chi (\vec x,t) = \partial_{ct} \phi +\vec \nabla \vec A $$
 
-Das heißt nochmals ein D'Alambert-Problem.
+Das heißt nochmals ein D'Alembert-Problem.
 
 _Bemerkung_: Poisson Problem $$ -\nabla f(\vec x,t) = 4 \pi g(\vec x,t)$$ gelöst durch:
 
@@ -177,3 +177,5 @@ mit:
 $$ f_{\rm part.} (\vec x,t} = \int \dfrac{g(\vec x,t)}{\mid \vec x - \vec x'\mid} {\rm d}^3 x'$$
 
 für $$ \Delta f_{\rm hom.} (\vec x,t} = 0$$ und $$ -\Delta \dfrac{1}{\mid\vec x - \vec x'\mid} = 4 \pi \delta (\vec x - \vec x') §§
+
+_Bemerkung_: D'Alembert
