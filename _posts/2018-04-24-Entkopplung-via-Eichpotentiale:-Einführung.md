@@ -79,5 +79,5 @@ die Felder $$ \vec E, \vec B $$ invariant (' $$ \Leftrightarrow$$ 'neu' )
 
 _Bemerkung_: 
 - $$ \vec E' = -\vec \nabla \phi' - \partial_{ct} \vec A' = -\vec \nabla \phi +\partial_{ct} \vec A - \partial_{ct} \vec \nabla \chi = \vec E$$
-- $$ \require{cancel} \vec B' = \vec \nabla \wedge \vec A' = \vec \nabla \wedge \vec A + \cancel{\vec \nabla \wedge (\vec \nabla \chi)} = $$ 
+- $$ \require{cancel} \vec B' = \vec \nabla \wedge \vec A' = \vec \nabla \wedge \vec A + \cancel{\vec \nabla \wedge (\vec \nabla \chi)} =  \vec B$$ 
 
