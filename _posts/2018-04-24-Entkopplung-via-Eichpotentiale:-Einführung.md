@@ -100,3 +100,7 @@ $$ ( (I) - C) - \Delta \phi (\vec x,t) = 4 \pi \rho (\vec x, t) $$
 $$ ( (IV) -C ) - \Delta \vec A (\vec x, t) + \partial_{ct}^2 \vec A(\vec x,t) = \dfrac{4 \pi}{c} \vec j - \partial_{ct} \vec \nabla \phi (\vec x,t) $$
 
 (I-C) heißt Poisson-Gleichung (analog Elektrostatik/Gravitationsphysik) 
+
+Allgemeine Lösung:
+
+$$ \require{boxed} \boxed{\phi(\vec x,t) = \int \dfrac{\rho (\vec x,t) }{\mid\vec x -\vec x'\mid} }$$
