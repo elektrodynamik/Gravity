@@ -71,4 +71,6 @@ $$ \Rightarrow $$ Immer noch gekoppelt, Besserung druch Nebenbedingungen (NB)?
 ---
 ## 2.3. Eichbedingungen
 ---
-**Definiton**: Für beliebige $$ \chi (\vec x,t) \in \mathbb{R} $$
+**Definiton**: Für beliebige $$ \chi (\vec x,t) \in \mathbb{R} $$ lässt die Eichtransformation:
+- $$\phi (\vec x,t) \rightarrow \phi'(\vec x,t) = \phi(\vec x,t) - \partial_{ct} \chi(\vec x,t)$$ 
+- $$\vec A (\vec x,t) \rightarrow \vec A'(\vec x,t) = \vec A (\vec x,t) -\vec \nabla \vec A (\vec x,t)$$ 
