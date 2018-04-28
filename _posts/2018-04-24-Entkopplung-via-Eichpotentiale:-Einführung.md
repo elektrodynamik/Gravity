@@ -151,6 +151,6 @@ $$ \Rightarrow (-\Delta + \partial_{ct}^2) \chi = \partial_{ct} \phi +\vec \nabl
 $$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive homogenen Anteil.
 
 ---
-## 2.4 Poisson $$ \Leftrightarrow$$ D'Alambert $$
+## 2.4 Poisson $$ \Leftrightarrow$$ D'Alambert
 
 ---
