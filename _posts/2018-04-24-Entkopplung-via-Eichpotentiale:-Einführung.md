@@ -83,4 +83,5 @@ _Bemerkung_:
 
 $$\Rightarrow$$ (I) - (IV) (lassen alle Physik) invariant unter Eichtransformation
 
-$$\Righarrow$$ $$\phi , \vec A$$ sind nicht direkt beobachtbar, nichtsdestotrotz Behandlung als Observable in der Quantenmechanik ('Aharonov-Bohm-Effekt').
+$$\Righarrow \phi , \vec A$$ sind nicht direkt beobachtbar, nichtsdestotrotz Behandlung als Observable in der Quantenmechanik ('Aharonov-Bohm-Effekt').
+$$\Righarrow$$ Die 
