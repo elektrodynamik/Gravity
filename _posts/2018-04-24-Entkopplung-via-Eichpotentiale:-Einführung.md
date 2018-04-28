@@ -119,5 +119,5 @@ $$\vec \nabla \dfrac{\rm d}{\rm d t} \phi = \vec \nabla \int \dfrac{- \vec \nabl
 
 _Bemerkung_: Mit L-NB folgt aus NB-Gleichungen
 
--
+- $$ (I-L) (-\Delta + \partial_{ct}^2) \phi (\vec x,t) = 4 \pi \rho (\vec x,t)
 -
