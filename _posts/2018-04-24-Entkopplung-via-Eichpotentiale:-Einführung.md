@@ -151,16 +151,16 @@ $$ \Rightarrow (-\Delta + \partial_{ct}^2) \chi = \partial_{ct} \phi +\vec \nabl
 $$ \Rightarrow$$ Lösung via Wellengleichung/retardierten Potential inklusive homogenen Anteil.
 
 ---
-## 2.4 Poisson $$ \Leftrightarrow$$ D'Alambert
+## 2.4 Poisson $$ \Leftrightarrow$$ D'Alembert
 
 ---
 
 
-**Definition**: $$ \box  = -\Delta + \partial_{ct}^2$$ ('D'Alambert-Operator')
+**Definition**: $$ \box  = -\Delta + \partial_{ct}^2$$ ('D'Alembert-Operator')
 
 _Bemerkung_: In Lorenz-Eichung [ $$ (\partial_{ct},\vec \nabla) \cdot (\phi,\vec A) $$ = 0 ] sind (I) und (IV) entkoppelt:
 
-$$ \require{boxed} \boxed{ \text{D'Alambert-Problem} \\ \box \phi (\vec x,t) = 4 \pi \rho (\vec x,t) \\ \box \vec A (\vec x,t) = \dfrac{4 \pi}{c} \vec j (\vec x,t)} $$
+$$ \require{boxed} \boxed{ \text{D'Alembert-Problem} \\ \box \phi (\vec x,t) = 4 \pi \rho (\vec x,t) \\ \box \vec A (\vec x,t) = \dfrac{4 \pi}{c} \vec j (\vec x,t)} $$
 
 _Bemerkung_: Etablierung der L-NB führt auf:
 
