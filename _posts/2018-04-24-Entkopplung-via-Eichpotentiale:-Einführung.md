@@ -170,7 +170,7 @@ Das heißt nochmals ein D'Alembert-Problem.
 
 _Bemerkung_: Poisson Problem $$ -\nabla f(\vec x,t) = 4 \pi g(\vec x,t)$$ gelöst durch:
 
-$$ f(\vec x,t) = f_{\rm part.} (\vec x,t} + f_{\rm hom.} (\vec x,t)$$
+$$ f(\vec x,t) = f_{\rm part.} (\vec x,t) + f_{\rm hom.} (\vec x,t)$$
 
 mit:
 
