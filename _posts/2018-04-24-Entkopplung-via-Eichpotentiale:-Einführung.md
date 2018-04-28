@@ -126,4 +126,4 @@ $$ \Rightarrow $$ Wellengleichung für $$ \phi, \vec A $$ (4 Gleichungen für 4 
 
 $$ \Rightarrow $$ Entkopplung ist total d.h. ohne $$\perp$$-Anteil.
 
-$$ \Rightarrow $$ Allgemeine Lösung via retardierter Potential (siehe später {GREENSCHE-FUNKTION})
+$$ \Rightarrow $$ Allgemeine Lösung via retardierter Potential (siehe später {GREENSCHE-FUNKTION}). D.h. : 
