@@ -19,6 +19,8 @@ published: true
 
 2.0 [Einführung](https://elektrodynamik.github.io/2018/04/24/2.0-Entkopplung-via-Eichpotentiale-Einführung.html "Entkopplung via Eichpotentiale: Einführung")
 
+2.1
+
 ### III Relativistische Formulierung der Elektrodynamik
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
