@@ -7,3 +7,5 @@
 - [Integralguide-LITE](http://math.hws.edu/eking/CalculusII/usubguidelines "Integralguide-Lite") (choosing-u Abschnitt)
 
 - [Biot-Savart + Mathematisches Werkzeug](https://www.uni-kassel.de/eecs/uploads/media/Skript_Teil3.pdf "Biot-Savart+Tools")
+
+- [Elektrodynamik-Überblick, Alexander Altraudt](http://www.thp.uni-koeln.de/alexal/pdf/electrodynamics.pdf "alexal")
