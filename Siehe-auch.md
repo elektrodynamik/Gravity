@@ -5,3 +5,5 @@
 - [Greensche Funktion](https://de.wikipedia.org/wiki/Greensche_Funktion "Greensche Funktion")(vor allem Motivation und Lösung der Wellengleichung)
 
 - [Integralguide-LITE](http://math.hws.edu/eking/CalculusII/usubguidelines "Integralguide-Lite") (choosing-u Abschnitt)
+
+- [Biot-Savart + Mathematisches Werkzeug](https://www.uni-kassel.de/eecs/uploads/media/Skript_Teil3.pdf "Biot-Savart+Tools")
