@@ -24,7 +24,7 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 ### III Relativistische Formulierung der Elektrodynamik
 
-3.0 [Spezielle Relativitätstheorie* ](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie* " ) 
+3.0 [Spezielle Relativitätstheorie ](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie " ) 
 
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
