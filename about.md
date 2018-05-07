@@ -22,6 +22,9 @@ published: true
 2.1 [Greensche Funktion](https://elektrodynamik.github.io/2018/04/26/2.1-Entkopplung-via-Eichpotentiale-Greensche-Funktion.html "Entkopplung via Eichpotentiale: Greensche Funktion ")
 
 ### III Relativistische Formulierung der Elektrodynamik
+
+3.0 
+
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
 ### VI Elektrodynamik in materiellen Medien
