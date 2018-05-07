@@ -6,6 +6,7 @@ published: true
 ---
 # Überblick
 
+Die mit ' * '
 
 ### I Maxwell-Gleichungen ( diff. Form $$ \Longleftrightarrow $$ int. Form)
 
@@ -23,7 +24,7 @@ published: true
 
 ### III Relativistische Formulierung der Elektrodynamik
 
-3.0 
+3.0 [Spezielle Relativitätstheorie*](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie*") 
 
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
