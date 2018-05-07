@@ -6,7 +6,7 @@ published: true
 ---
 # Überblick
 
-Die mit ' * '
+Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehen.
 
 ### I Maxwell-Gleichungen ( diff. Form $$ \Longleftrightarrow $$ int. Form)
 
