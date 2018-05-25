@@ -35,7 +35,7 @@ Also: $$ u^\mu =  \dfrac{\rm d t}{\rm d \tau} \dfrac{\rm d x^\mu}{\rm d t}, $$ M
 
 ---
 
-$$ u^\mu $$ hat die fixe Länge: $$ \mid u^\mu \mid^2 = \langle u, u \rangle \eta = u_\mu u^\mu = u^\nu u_\nu = \gamma^2 (v) [ c^2 - \vec v^2 ] \to \dfrac{1}{1-\beta^2} c^2 [1-\beta^2] = c^2 $$
+$$ u^\mu $$ hat die fixe Länge: $$ \mid u^\mu\mid^2 = \langle u, u \rangle \eta = u_\mu u^\mu = u^\nu u_\nu = \gamma^2 (v) [ c^2 - \vec v^2 ] \to \dfrac{1}{1-\beta^2} c^2 [1-\beta^2] = c^2 $$
 
 Das Betragsquadrat beträgt immer $$c^2$$. 
 
