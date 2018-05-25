@@ -31,6 +31,6 @@ $$ {t'}_ {\alpha} ^{\beta}_ {\gamma} = \Lambda_{\alpha}^ {\ \mu} \Lambda^{\beta}
 
 $$ \dfrac{\rm d x^\mu}{\rm d t} $$ ist **kein** Vierervektor, d$$\tau = \rm d s $$ ist ein Lorenzskalar, d.h. $$ \dfrac{\rm d x^\mu}{\rm d \tau} = u^\mu  $$ ist ein Vierervektor, d.h. $$u'^\mu = \Lambda^{\mu}_ {\ \nu} u^\nu $$
 
-Also: $$ u^\mu =  \dfrac{\rm d t}{\rm d \tau} \dfrac{\rm d x^\mu}{\rm d t}, $$ Mit $$ \dfrac{\rm d t}{\rm d \tau} $$
+Also: $$ u^\mu =  \dfrac{\rm d t}{\rm d \tau} \dfrac{\rm d x^\mu}{\rm d t}, $$ Mit $$ \dfrac{\rm d t}{\rm d \tau} = \gamma (v)$$
 
 
