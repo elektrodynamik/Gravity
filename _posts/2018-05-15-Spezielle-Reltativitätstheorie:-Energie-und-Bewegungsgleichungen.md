@@ -53,4 +53,4 @@ $$ a^\mu = \begin{pmatrix} \gamma^4 \dfrac{\vec v \cdot \vec a}{c^2} \\ \gamma^2
 
 - Aus $$ u_\mu u^\mu = c^2$$ folgt durch Diff. nach $$ \tau $$
 
-$$ u_\mu a^\mu = a_\mu u^\mu = 0$$
+$$ u_\mu a^\mu = a_\mu u^\mu = 0 \to $$ d.h. $$ \langle u, a \rangle = 0$$ 
