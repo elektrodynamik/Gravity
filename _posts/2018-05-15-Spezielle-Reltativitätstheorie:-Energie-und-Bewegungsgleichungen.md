@@ -31,6 +31,16 @@ $$ {t'}_ {\alpha} ^{\beta}_ {\gamma} = \Lambda_{\alpha}^ {\ \mu} \Lambda^{\beta}
 
 $$ \dfrac{\rm d x^\mu}{\rm d t} $$ ist **kein** Vierervektor, d$$\tau = \rm d s $$ ist ein Lorenzskalar, d.h. $$ \dfrac{\rm d x^\mu}{\rm d \tau} = u^\mu  $$ ist ein Vierervektor, d.h. $$u'^\mu = \Lambda^{\mu}_ {\ \nu} u^\nu $$
 
-Also: $$ u^\mu =  \dfrac{\rm d t}{\rm d \tau} \dfrac{\rm d x^\mu}{\rm d t}, $$ Mit $$ \dfrac{\rm d t}{\rm d \tau} = \gamma (v)$$
+Also: $$ u^\mu =  \dfrac{\rm d t}{\rm d \tau} \dfrac{\rm d x^\mu}{\rm d t}, $$ Mit $$ \dfrac{\rm d t}{\rm d \tau} = \gamma (v)$$ folgt: $$ (u^\mu) = \gamma (v) (c, \vec v)^T $$ wo $$ \vec v $$ die übliche Dreiergeschwindigkeit ist.
+
+---
+
+$$ u^\mu $$ hat die fixe Länge: $$ \mid u^\mu \mid^2 = \langle u, u \rangle \eta = u_\mu u^\mu = u^\nu u_\nu = \gamma^2 (v) [ c^2 - \vec v^2 ] \to \dfrac{1}{1-\beta^2} c^2 [1-\beta^2] = c^2 $$
+
+Das Betragsquadrat beträgt immer $$c^2$$. 
+
+Nochmalige Ableitung nach der Eigenzeit $$ \tau $$ ergibt Viererbeschleunigung:
+
+$$ a^\mu := \dfrac{\rm d u^\mu}{\rm d \tau} = \gamma (v) \dfrac{\rm d u^\mu}{\rm d t} = \gamma (v) \dfrac{\rm d}{\rm dt} {\gamma (c, \vec v)^T)  $$ 
 
 
