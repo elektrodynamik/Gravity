@@ -13,4 +13,8 @@ Skalarprodukt: $$ \langle \cdot, \cdot \rangle $$ bezüglich (+ + + +), (- - - -
 
 Lorentz-Boost kann als Drehung in der Raumzeit interpretiert werden.
 
-$$ \langle x, y \rangle = \langle x', y' \rangle = \langle \Lambda x, \Lambda y \rangle \\ \Rightarrow \Lambda^T \eta \Lambda = \eta \stackrel{\cdot \eta, \Lambda^{-1}}{\to} \eta \Lamdba^T \eta = \Lambda^{-1}  $$ 
+$$ \langle x, y \rangle = \langle x', y' \rangle = \langle \Lambda x, \Lambda y \rangle \\ \Rightarrow \Lambda^T \eta \Lambda = \eta \stackrel{\cdot \eta, \Lambda^{-1}}{\to} \eta \Lamdba^T \eta = \Lambda^{-1}.  $$
+
+Betrachte Lorenzboost in x-Richtung: 
+
+$$ \begin{pmatrix} \gamma & -\beta \gamma  & 0 & 0\\ -\beta \gamma & \gamma & 0 & 0 \\ 0 & 0 & 1 & 0  \\ 0 & 0 & 0 & 1 \end{pmatrix}^{-1} = \begin{pmatrix} \gamma & \beta \gamma  & 0 & 0\\ \beta \gamma & \gamma & 0 & 0 \\ 0 & 0 & 1 & 0  \\ 0 & 0 & 0 & 1 \end{pmatrix} $$
