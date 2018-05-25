@@ -29,5 +29,6 @@ $$ t'_ {\alpha} ^{\beta}_ {\gamma} = \Lambda_{\alpha}^ {\ \mu} \Lambda^{\beta}_ 
 
 ### Achtung: d$$x^\mu$$ ist ein Vierervektor, aber d$$t$$ ist ein Lorenzskalar, d.h.:
 
-$$ \dfrac{\rm d x^\mu} $$
+$$ \dfrac{\rm d x^\mu}{\rm d t} $$ ist **kein** Vierervektor, d$$\tau = \rm d s $$ ist ein Lorenzskalar, d.h. $$ \dfrac{\rm d x^\mu}{\rm d \tau} = u^\mu  $$ ist ein Vierervektor, d.h. $$u'^\mu = \Lambda^{\mu}_ {\ \nu} u^\nu $$
+
 
