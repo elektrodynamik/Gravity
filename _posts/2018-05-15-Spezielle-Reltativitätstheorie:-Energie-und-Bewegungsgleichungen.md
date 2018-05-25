@@ -43,7 +43,7 @@ Nochmalige Ableitung nach der Eigenzeit $$ \tau $$ ergibt Viererbeschleunigung:
 
 $$ a^\mu := \dfrac{\rm d u^\mu}{\rm d \tau} = \gamma (v) \dfrac{\rm d u^\mu}{\rm d t} = \gamma (v) \dfrac{\rm d}{\rm dt} \{ \gamma (c, \vec v)^T) \} $$
 
-$$ \to \dfrac{\rm d}{\rm d t} \gamma (v) = \dfrac{\rm d }{\rm d t} \dfrac{1}{\sqrt{1 - \beta^} }  = \dfrac{-1}{2} (1 - \beta^2)^{-\frac{3}{2} } (-2 \beta \dot{\beta} ) = \gamma^3 \dfrac{\vec v \vec a}{c^2} $$  mit $$ \vec a = \dfrac{\rm d \vec v}{\rm d t} $$
+$$ \to \dfrac{\rm d}{\rm d t} \gamma (v) = \dfrac{\rm d}{\rm d t} \dfrac{1}{ \sqrt{1 - \beta^2 } }  = \dfrac{-1}{2} (1 - \beta^2)^{-\frac{3}{2} } (-2 \beta \dot{\beta} ) = \gamma^3 \dfrac{\vec v \vec a}{c^2} $$  mit $$ \vec a = \dfrac{\rm d \vec v}{\rm d t} $$
 
 $$ 
 
