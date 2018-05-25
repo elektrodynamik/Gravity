@@ -19,4 +19,4 @@ Betrachte Lorenzboost in x-Richtung:
 
 $$ \begin{pmatrix} \gamma & -\beta \gamma  & 0 & 0\\ -\beta \gamma & \gamma & 0 & 0 \\ 0 & 0 & 1 & 0  \\ 0 & 0 & 0 & 1 \end{pmatrix}^{-1} = \begin{pmatrix} \gamma & \beta \gamma  & 0 & 0\\ \beta \gamma & \gamma & 0 & 0 \\ 0 & 0 & 1 & 0  \\ 0 & 0 & 0 & 1 \end{pmatrix}. $$
 
-$$ x'^{\mu} = \Lambda^{\mu}_ {\nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\nu} y_\nu $$ 
+$$ x'^{\mu} = \Lambda^{\mu}_ {\nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\nu} y_\nu, z^\mu = \eta^{\mu \nu} z_\nu $$ 
