@@ -45,7 +45,7 @@ $$ a^\mu := \dfrac{\rm d u^\mu}{\rm d \tau} = \gamma (v) \dfrac{\rm d u^\mu}{\rm
 
 $$ \to \dfrac{\rm d}{\rm d t} \gamma (v) = \dfrac{\rm d}{\rm d t} \dfrac{1}{ \sqrt{1 - \beta^2 } }  = \dfrac{-1}{2} (1 - \beta^2)^{-\frac{3}{2} } (-2 \beta \dot{\beta} ) = \gamma^3 \dfrac{\vec v \cdot \vec a}{c^2} $$  mit $$ \vec a = \dfrac{\rm d \vec v}{\rm d t} $$
 
-$$ a^\mu = \begin{pmatrix} \gamma^4 \dfrac{\vec v \cdot \vec a}{c^2} \end{pmatrix} \\ \gamma^2 \vec a + \gamma^4 \dfrac{\vec v \cdot \vec a}{c^2} \vec v $$
+$$ a^\mu = \begin{pmatrix} \gamma^4 \dfrac{\vec v \cdot \vec a}{c^2} \\ \gamma^2 \vec a + \gamma^4 \dfrac{\vec v \cdot \vec a}{c^2} \vec v \end{pmatrix} $$
 
 - Im Ruhesystem gilt $$ \gamma = 1 $$, sodass also gilt: $$ (a^\mu) = (0, \vec a)^T $$ und $$ a_\mu^{\ \mu} = - \vec a^2 $$
 
