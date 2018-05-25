@@ -51,4 +51,6 @@ $$ a^\mu = \begin{pmatrix} \gamma^4 \dfrac{\vec v \cdot \vec a}{c^2} \\ \gamma^2
 
 - Dasselbe $$ a_\mu a^\mu $$ folgt im Laborsystem: $$a^2 = a_\mu a^\mu = \gamma^3 \dfrac{(\vec v \vec a)^2}{c^4} - \dots = \dots = - \vec a^2 $$
 
-- 
+- Aus $$ u_\mu u^\mu = c^2$$ folgt durch Diff. nach $$ \tau $$
+
+$$ u_\mu a^\mu = a_\mu u^\mu = 0$$
