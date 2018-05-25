@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Spezielle-Reltativitätstheorie:Energie und Bewegungsgleichungen 
 
