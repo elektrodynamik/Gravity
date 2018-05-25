@@ -25,7 +25,7 @@ $$ x'^{\mu} = \Lambda^{\mu}_ {\ \nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\ \nu} y_\
 
 Fingerübung zur Indexkontraktion:
 
-$$ t'_ \alpha ^\beta_ {\gamma} = \Lambda_{\alpha}^ {\ \mu} \Lambda^{\beta}_ { \ \nu} \Lambda^{\sigma }_ {\ \gamma} t_\mu^ \nu_ \sigma $$
+$$ t'_ \alpha ^\beta_ \gamma = \Lambda_{\alpha}^ {\ \mu} \Lambda^{\beta}_ { \ \nu} \Lambda^{\sigma }_ {\ \gamma} t_\mu^ \nu_ \sigma $$
 
 ### Achtung: d$$x^\mu$$ ist ein Vierervektor, aber d$$t$$ ist ein Lorenzskalar, d.h.:
 
