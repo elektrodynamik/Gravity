@@ -21,7 +21,7 @@ $$ \begin{pmatrix} \gamma & -\beta \gamma  & 0 & 0\\ -\beta \gamma & \gamma & 0 
 
 Indexkontraktion:
 
-$$ x'^{\mu} = \Lambda^{\mu}_ {\ \nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\ \nu} y_\nu, z^\mu = \eta^{\mu \nu} z_\nu, z_\mu =  \eta_{\mu \nu} z^\nu \\ \eta_{\mu \sigma} \eta^{\sigma \nu} = \delta^\mu_{\ \nu} $$. Das heißt  $$ \eta^{\star \star} = (\eta_{\star \star})^{-1} $$
+$$ x'^{\mu} = \Lambda^{\mu}_ {\ \nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\ \nu} y_\nu, z^\mu = \eta^{\mu \nu} z_\nu, z_\mu =  \eta_{\mu \nu} z^\nu \\ \eta_{\mu \sigma} \eta^{\sigma \nu} = \delta^\mu_{\ \nu}. $$ Das heißt  $$ \eta^{\star \star} = (\eta_{\star \star})^{-1} $$
 
 Fingerübung zur Indexkontraktion:
 
