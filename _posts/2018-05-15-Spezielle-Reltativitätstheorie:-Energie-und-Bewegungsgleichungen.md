@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Spezielle-Reltativitätstheorie:Energie und Bewegungsgleichungen 
+# Spezielle-Reltativitätstheorie: Energie und Bewegungsgleichungen 
 
 ---
 
