@@ -21,4 +21,4 @@ $$ \begin{pmatrix} \gamma & -\beta \gamma  & 0 & 0\\ -\beta \gamma & \gamma & 0 
 
 Indexgymnastik
 
-$$ x'^{\mu} = \Lambda^{\mu}_ {\nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\nu} y_\nu, z^\mu = \eta^{\mu \nu} z_\nu, z_\mu =  \eta_{\mu \nu} z^\nu \\ \eta_{\mu \sigma} \eta^{\sigma \nu} = \delta^\nu_{\ \nu} $$, d.h. $$ \eta^{\star \star} = (\eta_{\star \start})^{-1} \\ $$ 
+$$ x'^{\mu} = \Lambda^{\mu}_ {\ \nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\nu} y_\nu, z^\mu = \eta^{\mu \nu} z_\nu, z_\mu =  \eta_{\mu \nu} z^\nu \\ \eta_{\mu \sigma} \eta^{\sigma \nu} = \delta^\nu_{\ \nu} $$, d.h. $$ \eta^{\star \star} = (\eta_{\star \start})^{-1} \\ $$ 
