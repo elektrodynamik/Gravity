@@ -19,10 +19,11 @@ Betrachte Lorenzboost in x-Richtung:
 
 $$ \begin{pmatrix} \gamma & -\beta \gamma  & 0 & 0\\ -\beta \gamma & \gamma & 0 & 0 \\ 0 & 0 & 1 & 0  \\ 0 & 0 & 0 & 1 \end{pmatrix}^{-1} = \begin{pmatrix} \gamma & \beta \gamma  & 0 & 0\\ \beta \gamma & \gamma & 0 & 0 \\ 0 & 0 & 1 & 0  \\ 0 & 0 & 0 & 1 \end{pmatrix}. $$
 
-Indexgymnastik
+Indexkontraktion:
 
 $$ x'^{\mu} = \Lambda^{\mu}_ {\ \nu} x^\nu, y'_ \mu = \Lambda_{\mu}^ {\ \nu} y_\nu, z^\mu = \eta^{\mu \nu} z_\nu, z_\mu =  \eta_{\mu \nu} z^\nu \\ \eta_{\mu \sigma} \eta^{\sigma \nu} = \delta^\mu_{\ \nu} $$. Das heißt  $$ \eta^{\star \star} = (\eta_{\star \star})^{-1} $$
 
 Fingerübung zur Indexkontraktion:
-$$\ t'_ {\alpha}^{\beta}_ {\gamma} = \Lambda_{\alpha}^{\ \mu} \Lambda^{\beta}_ { \ \nu} \Lambda^{\sigma }_ {\ \gamma} t_\mu^\nu_\sigma $$
+
+$$ t'_ {\alpha}^{\beta}_ {\gamma} = \Lambda_{\alpha}^{\ \mu} \Lambda^{\beta}_ { \ \nu} \Lambda^{\sigma }_ {\ \gamma} t_\mu^\nu_\sigma $$
 
