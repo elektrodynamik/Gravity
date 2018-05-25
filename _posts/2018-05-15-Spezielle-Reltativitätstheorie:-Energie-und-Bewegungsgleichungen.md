@@ -41,6 +41,8 @@ Das Betragsquadrat beträgt immer $$c^2$$.
 
 Nochmalige Ableitung nach der Eigenzeit $$ \tau $$ ergibt Viererbeschleunigung:
 
-$$ a^\mu := \dfrac{\rm d u^\mu}{\rm d \tau} = \gamma (v) \dfrac{\rm d u^\mu}{\rm d t} = \gamma (v) \dfrac{\rm d}{\rm dt} \{ \gamma (c, \vec v)^T) \}  $$ 
+$$ a^\mu := \dfrac{\rm d u^\mu}{\rm d \tau} = \gamma (v) \dfrac{\rm d u^\mu}{\rm d t} = \gamma (v) \dfrac{\rm d}{\rm dt} \{ \gamma (c, \vec v)^T) \} $$
+
+$$ \to \dfrac{\rm d}{\rm d t} \gamma (v) = \dfrac{\rm d }{\rm d t} \dfrac{1}{\sqrt{1 - \beta^} } $$ 
 
 
