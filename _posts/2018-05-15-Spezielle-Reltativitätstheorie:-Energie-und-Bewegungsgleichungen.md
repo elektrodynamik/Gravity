@@ -5,7 +5,7 @@ published: true
 
 ---
 
-### Wiederholung
+## Wiederholung
 
 ---
 
@@ -27,7 +27,7 @@ Fingerübung zur Indexkontraktion:
 
 $$ t'_ {\alpha} ^{\beta}_ {\gamma} = \Lambda_{\alpha}^ {\ \mu} \Lambda^{\beta}_ { \ \nu} \Lambda^{\sigma }_ {\ \gamma} t_\mu^ \nu_ \sigma $$
 
-##### Achtung: d$$x^\mu$$ ist ein Vierervektor, aber d$$t$$ ist ein Lorenzskalar, d.h.:
+### Achtung: d$$x^\mu$$ ist ein Vierervektor, aber d$$t$$ ist ein Lorenzskalar, d.h.:
 
 $$ \dfrac{\rm d x^\mu} $$
 
