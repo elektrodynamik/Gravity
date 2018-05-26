@@ -30,7 +30,7 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 3.2 [Spezielle Reltativitätstheorie: Energie und Bewegungsgleichungen](https://elektrodynamik.github.io/2018/05/15/3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen.html "3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen")
 
-3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie Stoßprozesse")
+3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
