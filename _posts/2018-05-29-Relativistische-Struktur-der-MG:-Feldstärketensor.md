@@ -118,4 +118,8 @@ $$ \boxed{ \sqaure A^\mu = \frac{4 \pi}{c} j^\mu } $$
 
 
 $$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  \\ 
-\vec E (x) = (- \partial_{ct} \vec A - \vec \nabla \phi) (\vec x,t)$$
+\vec E (x) = (- \partial_{ct} \vec A - \vec \nabla \phi) (\vec x,t) $$
+
+Wird kombiniert zu:
+
+$$ \boxed{ F^{\mu \nu} = \partial^\mu A^\nu - \partial^\nu A^\mu$$
