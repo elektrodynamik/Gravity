@@ -23,8 +23,10 @@ Notation und Transformation partieller Ableitungen:
 - $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial_\mu}  := \partial_\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \mu \ \nu \ \ \sigma}^{ \ \rho}  $$
 
 
-- $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial^\mu}  := \partial^\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \ \nu \ \ \sigma}^{ \mu \ \ \rho}  $$
+- $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial^\mu}  := \partial^\mu t_{ \nu \ \ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \ \nu \ \ \sigma}^{ \mu \ \ \rho}  $$
 
 Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambda^\star_{\ \star} $$
 
 - $$ x'^\mu \text{ ~ } \Lambda^\mu_ {\ \nu } x^{\nu} $$
+
+- $$ \Lambda_{\mu}^{ \ \kappa} x'^\mu = 
