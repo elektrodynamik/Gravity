@@ -138,4 +138,14 @@ $$ \partial_\mu j^\mu (x) = 0 $$ Kontinuitätsgleichung folgt aus Antisymmetrie 
 
 ---
 
-- $$ \vec \wedge \vec E + \partial_{ct} \vec B = 0 , \ \vec \nabla \vec B = 0$$ 
+- $$ \vec \wedge \vec E + \partial_{ct} \vec B = 0 , \ \vec \nabla \vec B = 0 $$ sind LI d.h. gültig in allen IS.
+
+- Definition: Antisymmetrischer dualer Feldstärketensor
+
+$$ \tilde{F}^{\mu \nu} (x) = \frac{1}{2} \epsilon^{\mu \nu \rho \sigma} F_{\rho \sigma} (x) $$
+
+Hierbei bezeichnet $$ \epsilon^{\mu \nu \rho \sigma} $$ den kontravarianten vollkommen antisymmetrischen Tensor vierter Stufe.
+
+Der duale Feldstärke Tensor sieht dann wie folgt aus: 
+
+$$ (\tilde{F}^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z & B_y \\ E_y & B_z & 0 & -B_x \\ E_z & -B_y & B_x & 0 \end{pmatrix} $$ 
