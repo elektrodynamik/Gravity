@@ -19,3 +19,6 @@ published: true
 - $$ \partial^\mu := \frac{\partial}{\partial_\mu} \text{ ~ } y_\mu \text{ d.h. } \partial'^ \mu \text{ ~ } \Lambda^\mu_{\ \nu} \partial^\nu $$
 
 - $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial_\mu}  := \partial_\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \mu \ \nu \ \ \sigma}^{ \ \rho}  $$
+
+
+- $$ \frac{\partial t_{ \sigma}^{ \nu \ \rho} }{\partial_\mu}  := \partial_\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \mu \ \nu \ \ \sigma}^{ \ \rho}  $$
