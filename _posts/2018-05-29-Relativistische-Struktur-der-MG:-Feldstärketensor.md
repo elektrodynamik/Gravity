@@ -117,4 +117,5 @@ Wird kombiniert zu:
 $$ \boxed{ \sqaure A^\mu = \frac{4 \pi}{c} j^\mu } $$
 
 
-$$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  $$
+$$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  \\ 
+\vec E (x) = (- \partial_{ct} \vec A - \vec \nabla \phi) (\vec x,t)$$
