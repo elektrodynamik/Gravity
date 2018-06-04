@@ -41,9 +41,10 @@ Ausbau für höhere partielle Ableitungen:
 
 ---
 
-Inhomogene Maxwellgleichungen
+## Inhomogene Maxwellgleichungen ( IMG)
 
 ---
 
 - $$ \vec \nabla E = 4 \pi \rho , \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \frac{4 \pi}{c} \vec j $$ sind lorenzinvariant, d.h. in \textbg{allen} Inertialsystemen gültig.
 
+- Kontinuitätsgleichung 'K': $$ \partial_{ct} c \rho + \vec \nabla \vec j $$ folgt aus 
