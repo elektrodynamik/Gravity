@@ -97,4 +97,4 @@ B. Lorenzeichbedingung: $$ \partial_\mu A^\mu $$
 
 Hierbei sind:
 
-$$ \partial_\mu \begin{pmatrix} $$
+$$ ( \partial_\mu ) \begin{pmatrix} $$
