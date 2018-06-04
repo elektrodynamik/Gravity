@@ -148,4 +148,4 @@ Hierbei bezeichnet $$ \epsilon^{\mu \nu \rho \sigma} $$ den kontravarianten voll
 
 Der duale Feldstärke Tensor sieht dann wie folgt aus: 
 
-$$ (\tilde{F}^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z & B_y \\ E_y & B_z & 0 & -B_x \\ E_z & -B_y & B_x & 0 \end{pmatrix} $$ 
+$$ (\tilde{F}^{mu \nu} ) = \begin{pmatrix} 0 & - B_x & - B_y - & B_z \\ B_x & 0  & E_z & -E_y \\ B_y & -E_z & 0 & E_x \\ B_z & E_y & -E_x & 0 \end{pmatrix} $$ 
