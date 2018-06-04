@@ -79,4 +79,4 @@ $$ (F^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z
 
 - IMG umformuliert
 
-$$ \partial_\mu F^{\mu \nu} (x) = \frac{4 \pi} 
+$$ \boxed{ \partial_\mu F^{\mu \nu} (x) = \frac{4 \pi}{c} j^\nu (x) } $$
