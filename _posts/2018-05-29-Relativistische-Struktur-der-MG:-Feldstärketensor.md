@@ -170,5 +170,7 @@ $$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \part
 
 - Ziel: $$ \vec E $$ & $$ \vec B $$ in S $$ \to \vec E', \vec B' $$ in S'
 
-- Weg: $$ \vec E $$ & $$ \vec B  \leftrigharrow  F^{\star \star} \stackrel{\Lambda}{\leftrightarrow} F'^{\star \star} \leftrightarrow \vec E', \vec B'$$ 
+- Weg: $$ \vec E $$ & $$ \vec B  \leftrigharrow  F^{\star \star} \stackrel{\Lambda}{\leftrightarrow} F'^{\star \star} \leftrightarrow \vec E', \vec B'$$
+
+- Explizites Resultat für S $$ \to $$ S' mit $$ \vec \beta = \frac{\vec v}{c} $$ 
 
