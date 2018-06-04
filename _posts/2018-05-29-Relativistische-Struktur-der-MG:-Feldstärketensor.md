@@ -91,6 +91,6 @@ Zusammenhang:
 
 $$ F_{\star \star} \to A_\star $$
 
-A. Lorenzeichbedinung: $$ \partial_{ct} \phi (x) + \vec \nabla \vec A (x) = 0 $$
+A. Lorenzeichbedingung: $$ \partial_{ct} \phi (x) + \vec \nabla \vec A (x) = 0 $$
 
-B. Loren
+B. Lorenzeichbedingung: $$ \partial_\mu A^\mu $$  
