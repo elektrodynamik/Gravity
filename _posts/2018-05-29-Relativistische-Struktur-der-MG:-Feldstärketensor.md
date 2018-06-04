@@ -93,4 +93,8 @@ $$ F_{\star \star} \to A_\star $$
 
 A. Lorenzeichbedingung: $$ \partial_{ct} \phi (x) + \vec \nabla \vec A (x) = 0 $$
 
-B. Lorenzeichbedingung: $$ \partial_\mu A^\mu $$  
+B. Lorenzeichbedingung: $$ \partial_\mu A^\mu $$
+
+Hierbei sind:
+
+$$ \partial_\mu \begin{pmatrix} $$
