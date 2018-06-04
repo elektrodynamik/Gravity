@@ -31,4 +31,4 @@ Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambd
 
 - $$ \Lambda_{\mu}^{ \ \kappa} x'^\mu = \Lambda_\mu^{ \ \kappa} \Lambda^\mu_{ \ \nu} x^\nu = \delta_\nu^{ \kappa} x^\kappa  $$
 
-- $$ \dfrac{x'^\mu}{x^\nu} = \Lambda^\mu_{ \ \nu} \Leftrigharrow \dfrac{x'^\nu}{x'^\mu} $$
+- $$ \dfrac{x'^\mu}{x^\nu} = \Lambda^\mu_{ \ \nu} \Leftrigharrow \dfrac{x'^\nu}{x'^\mu} = \Lambda_\mu ^{\ \nu}  $$
