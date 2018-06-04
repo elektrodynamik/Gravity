@@ -109,10 +109,12 @@ $$ \to $$ LEB ist LI Bedingung!
 
 - $$ \partial^2_{ct} \vec A(x) - \Delta \vec A (x) = \frac{4 \pi}{c} \vec j (x) $$
 
-$$ \to \square \phi (x) = 4 \pi \rho (x) $$
-
-$$ \to \sqaure \vec A (x) = \frac{4 \pi}{c} \vec j (x) $$ 
+$$ \to \square \phi (x) = 4 \pi \rho (x) \\
+\to \sqaure \vec A (x) = \frac{4 \pi}{c} \vec j (x) $$ 
 
 Wird kombiniert zu:
 
 $$ \boxed{ \sqaure A^\mu = \frac{4 \pi}{c} j^\mu } $$
+
+
+$$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  $$
