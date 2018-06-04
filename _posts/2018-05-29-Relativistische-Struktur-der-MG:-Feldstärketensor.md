@@ -27,4 +27,4 @@ Notation und Transformation partieller Ableitungen:
 
 Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambda^\star_{\ \star} $$
 
-- $$ x'^\mu \text{ ~ } $$
+- $$ x'^\mu \text{ ~ } \Lambda^\mu_ {\ \nu } x^{\nu} $$
