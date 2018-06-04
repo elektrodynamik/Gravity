@@ -114,7 +114,7 @@ $$ \to \square \phi (x) = 4 \pi \rho (x) \\
 
 Wird kombiniert zu:
 
-$$ \boxed{ \sqaure A^\mu = \frac{4 \pi}{c} j^\mu } $$
+$$ \boxed{ \square A^\mu = \frac{4 \pi}{c} j^\mu } $$
 
 
 $$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  \\ 
