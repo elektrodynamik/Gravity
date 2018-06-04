@@ -86,3 +86,7 @@ Nachrechnen zeigt:
 - $$ \nu = 0; \vec \nabla \vec E = \frac{4 \pi}{c} c \rho $$ 
 
 - $$ \nu = i; \vec \nabla \wedge \vec B (x) - \partial_{ct} E(x) = \frac{4 \pi}{c} \vec j (x) $$
+
+Zusammenhang:
+
+$$ F_{\star \star} 
