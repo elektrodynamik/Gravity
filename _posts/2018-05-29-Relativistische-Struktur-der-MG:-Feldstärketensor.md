@@ -13,7 +13,7 @@ published: true
 
 - $$ t_{ \alpha \  \gamma}^ { \ \beta} \text{ ~ } x_\alpha y^\beta z_\gamma $$
 
-Notation partieller Ableitungen:
+Notation und Transformation partieller Ableitungen:
 
 - $$ \partial_\mu := \frac{\partial}{\partial^\mu} \text{ ~ } y_\mu \text{ d.h. } \partial'_ \mu \text{ ~ } \Lambda_\mu^{\ \nu} \partial_\nu $$  
 
