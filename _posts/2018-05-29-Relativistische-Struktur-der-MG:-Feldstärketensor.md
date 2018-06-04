@@ -9,7 +9,7 @@ published: true
 
 ---
 
-- Bisheriges InventarÖ $$ \{ x_\mu, y^\mu , x_\mu y^\mu, \delta^{\nu}_ { \ \mu} , \eta_{\mu \nu} \}  $$
+- Bisheriges Inventar: $$ \{ x_\mu, y^\mu , x_\mu y^\mu, \delta^{\nu}_ { \ \mu} , \eta_{\mu \nu} \}  $$
 
 - $$ t_{ \alpha \  \gamma}^ { \ \beta} \text{ ~ } x_\alpha y^\beta z_\gamma $$
 
