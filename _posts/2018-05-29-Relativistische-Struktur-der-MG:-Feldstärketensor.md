@@ -174,5 +174,8 @@ $$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \part
 
 - Explizites Resultat für S $$ \to $$ S' mit $$ \vec \beta = \frac{\vec v}{c} $$ in S.
 
-$$ \vec E'(x') = \gamma(\vec E + \vec \beta \wedge \vec B) - \frac{\gamma^2}{1+\gamma} \vec \beta (\vec \beta \cdot \vec E$$ 
+$$ \vec E'(x') = \gamma(\vec E + \vec \beta \wedge \vec B) - \frac{\gamma^2}{1+\gamma} \vec \beta (\vec \beta \cdot \vec E$$
+
+$$ \vec B'(x') = \gamma(\vec B - \vec \beta \wedge \vec E) - \frac{\gamma^2}{1+\gamma} \vec \beta (\vec \beta \cdot \vec B$$
+ 
 
