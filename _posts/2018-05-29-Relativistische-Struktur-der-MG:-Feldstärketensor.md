@@ -35,5 +35,5 @@ Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambd
 
 Ausbau für höhere partielle Ableitungen:
 
-- $$ \frac{\partial}{\partial x^\mu} \frac{\partial}{\partial x^\nu} $$ 
+- $$ \frac{\partial}{\partial x^\mu} \frac{\partial}{\partial x^\nu} t^{\rho \sigma} \text{ ~ } \delta_{\mu \nu}^{\ \ \rho \sigma} $$ 
 
