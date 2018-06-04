@@ -71,3 +71,8 @@ $$ \to $$ K lautet:
 $$\boxed{\partial_\mu j^\mu = 0 $$ 
 
 - Ladung q ( Allgemein Anzahl an Elementarladungen) ist LI. d$$q = \rm{d}^3x \rm{d} \frac{j^0}{c} $$ 
+
+Definition: Feldstärketensor.
+
+
+$$ (F^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z & B_y \\ E_y & B_z & 0 -B_x \\ E_z & -B_y & B_x & 0 \end{pmatrix}
