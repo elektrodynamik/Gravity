@@ -162,3 +162,9 @@ $$ \nu = i, \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0$$
 
 $$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \partial_{\gamma} F^{\alpha \beta} = 0 $$
 
+---
+
+## 4.4 Transformationseigenschaften von $$ \vec E , \vec B $$
+
+---
+
