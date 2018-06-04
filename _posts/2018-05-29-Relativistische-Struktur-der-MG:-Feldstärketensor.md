@@ -37,7 +37,7 @@ Ausbau für höhere partielle Ableitungen:
 
 - $$ \frac{\partial}{\partial x^\mu} \frac{\partial}{\partial x^\nu} t^{\rho \sigma} \text{ ~ } \delta_{\mu \nu}^{\ \ \rho \sigma} $$
 
-- $$ \partial_\mu \partial^\mu f^\alpha_{\ \beta \gamma} \text{ ~ } f^\alpha_{\ \beta \gamma} \Rightarrow \partial_\mu \partial^\mu = \frac{1}{c^2} \partial^2_t - \Delta = \box $$ ist ein Lorenzskalar.
+- $$ \partial_\mu \partial^\mu f^\alpha_{\ \beta \gamma} \text{ ~ } f^\alpha_{\ \beta \gamma} \Rightarrow \partial_\mu \partial^\mu = \frac{1}{c^2} \partial^2_t - \Delta = \square $$ ist ein Lorenzskalar.
 
 ---
 
