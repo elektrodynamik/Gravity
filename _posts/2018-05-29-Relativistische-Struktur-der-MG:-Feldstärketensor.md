@@ -45,4 +45,4 @@ Inhomogene Maxwellgleichungen
 
 ---
 
-- $$ \vec \nabla E = 4 \pi \rho , \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \frac{4 \pi}{c} \vec j $$
+- $$ \vec \nabla E = 4 \pi \rho , \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \frac{4 \pi}{c} \vec j $$ sind lorenzinvariant, d.h. in allen Inertialsystemen gültig.
