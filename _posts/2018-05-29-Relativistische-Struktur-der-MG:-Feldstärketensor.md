@@ -180,6 +180,8 @@ $$ \vec B'(x') = \gamma(\vec B - \vec \beta \wedge \vec E) - \frac{\gamma^2}{1+\
 
 - Mit $$ \vec E_{\parallel} = (\vec E \vec \beta ) \frac{\vec \beta}{\beta^2}, $$\vec E_{\perp} = \vec E -\vec E_{\parallel} $$
 
-Analoges gilt für $$ \vec B_{\parallel}, \vec B_{\perp} $$ 
+Analoges gilt für $$ \vec B_{\parallel}, \vec B_{\perp} $$
+
+- $$ E'_ {\parallel}
  
 
