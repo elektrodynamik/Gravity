@@ -123,3 +123,9 @@ $$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  \\
 Wird kombiniert zu:
 
 $$ \boxed{ F^{\mu \nu} = \partial^\mu A^\nu - \partial^\nu A^\mu }$$
+
+- Fazit
+
+$$ (\partial_\mu F^{\mu \nu} ) (x) = \frac{4 \pi}{c} j^\nu (x) $$
+
+$$ \partial_\nu ( \dots ) (x) = \frac{4 \pi}{c} $$
