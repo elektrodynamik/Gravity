@@ -128,4 +128,4 @@ $$ \boxed{ F^{\mu \nu} = \partial^\mu A^\nu - \partial^\nu A^\mu }$$
 
 $$ (\partial_\mu F^{\mu \nu} ) (x) = \frac{4 \pi}{c} j^\nu (x) $$
 
-$$ \partial_\nu ( \dots ) (x) = \frac{4 \pi}{c} \partial_\nu j^\nu (x) $$, weil $$ F^{\mu \nu} = - F^{\nu \mu }
+$$ \partial_\nu ( \dots ) (x) = \frac{4 \pi}{c} \partial_\nu j^\nu (x) $$, weil $$ F^{\mu \nu}(x) = - F^{\nu \mu }(x)
