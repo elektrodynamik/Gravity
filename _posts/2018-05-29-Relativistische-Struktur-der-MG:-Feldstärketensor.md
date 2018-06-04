@@ -122,4 +122,4 @@ $$ \vec B (x) = ( \vec \nabla \wedge \vec A ) (\vec x,t)  \\
 
 Wird kombiniert zu:
 
-$$ \boxed{ F^{\mu \nu} = \partial^\mu A^\nu - \partial^\nu A^\mu$$
+$$ \boxed{ F^{\mu \nu} = \partial^\mu A^\nu - \partial^\nu A^\mu }$$
