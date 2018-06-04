@@ -64,5 +64,8 @@ Definitionen:
 
 $$ \to \partial_\mu \text{ ~ } $$ kovariante Vektorvariable, $$ j^\mu $$ kontravariante VV $$ \to \partial_mu j^\mu \text{ ~ Skalar} = 0 $$
 
-
 $$ \to \partial^\mu \text{ ~ } $$ kontravariante Vektorvariable, $$ j^\mu $$ kovariante VV $$ \to \partial^mu j_\mu \text{ ~ Skalar} = 0 $$
+
+$$ \to $$ K lautet:
+
+$$\boxed{\partial_\mu j^\mu = 0 $$ 
