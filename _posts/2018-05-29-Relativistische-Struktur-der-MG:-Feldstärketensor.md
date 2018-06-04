@@ -158,5 +158,7 @@ $$ \nu = 0, \vec \nabla \vec B = \vec 0 $$
 
 $$ \nu = i, \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0$$
 
+- HMG alternativ ohne $$ \tilde{F} $$ formuliert
 
+$$ \partial_\alpha F^{\beta \gamma} 
 
