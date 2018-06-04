@@ -98,3 +98,5 @@ B. Lorenzeichbedingung: $$ \partial_\mu A^\mu $$
 Hierbei sind:
 
 $$ ( \partial_\mu ) = \begin{pmatrix} \partial_{ct} \\ \vec \nabla \end{pmatrix} $$
+
+$$ ( A^\mu ) = \begin{pmatrix} \phi \\ \vec A \end{pmatrix} $$
