@@ -134,3 +134,8 @@ $$ \partial_\mu j^\mu (x) = 0 $$ Kontinuitätsgleichung folgt aus Antisymmetrie 
 
 ---
 
+## 4.3 Homogene Maxwellgleichung
+
+---
+
+- $$ \vec \wedge \vec E + \partial_{ct} \vec B = 0 , \ \vec \nabla \vec B = 0$$ 
