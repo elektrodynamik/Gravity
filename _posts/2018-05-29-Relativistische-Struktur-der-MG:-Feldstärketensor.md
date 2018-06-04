@@ -89,4 +89,4 @@ Nachrechnen zeigt:
 
 Zusammenhang:
 
-$$ F_{\star \star} 
+$$ F_{\star \star} \to A_\star $$
