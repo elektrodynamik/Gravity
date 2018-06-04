@@ -156,7 +156,7 @@ $$\partial_\mu \tilde{F}^{\mu \nu} (x) = 0$$
 
 $$ \nu = 0, \vec \nabla \vec B = 0 $$ 
 
-$$ \nu = i, \vec \nabla \wedge \vec E + \partial_{ct} \vec B = 0$$
+$$ \nu = i, \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0$$
 
 
 
