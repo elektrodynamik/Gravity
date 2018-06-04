@@ -45,6 +45,8 @@ Ausbau für höhere partielle Ableitungen:
 
 ---
 
-- $$ \vec \nabla E = 4 \pi \rho , \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \frac{4 \pi}{c} \vec j $$ sind lorenzinvariant, d.h. in \textbg{allen} Inertialsystemen gültig.
+- $$ \vec \nabla E = 4 \pi \rho , \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \frac{4 \pi}{c} \vec j $$ sind lorenzinvariant (LI), d.h. in \textbg{allen} Inertialsystemen gültig.
 
-- Kontinuitätsgleichung 'K': $$ \partial_{ct} c \rho + \vec \nabla \vec j $$ folgt aus 
+- Kontinuitätsgleichung 'K': $$ \partial_{ct} c \rho + \vec \nabla \vec j $$ folgt aus IMG.
+
+Falls IMG $$ \to $$ K ist LI, so gilt K $$ \Leftrightarrow \partial_mu j^\mu = 0 = \partial^\mu j_\mu $$
