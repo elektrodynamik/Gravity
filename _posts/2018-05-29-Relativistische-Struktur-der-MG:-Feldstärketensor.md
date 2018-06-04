@@ -23,4 +23,4 @@ Notation und Transformation partieller Ableitungen:
 - $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial_\mu}  := \partial_\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \mu \ \nu \ \ \sigma}^{ \ \rho}  $$
 
 
-- $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial^\mu}  := \partial_\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \mu \ \nu \ \ \sigma}^{ \ \rho}  $$
+- $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial^\mu}  := \partial_\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \ \nu \ \ \sigma}^{ \ \rho}  $$
