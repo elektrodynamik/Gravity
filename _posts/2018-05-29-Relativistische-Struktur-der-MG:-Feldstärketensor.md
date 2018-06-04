@@ -76,3 +76,7 @@ Definition: Feldstärketensor.
 
 
 $$ (F^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z & B_y \\ E_y & B_z & 0 -B_x \\ E_z & -B_y & B_x & 0 \end{pmatrix} $$ 
+
+- IMG umformuliert
+
+$$ \partial_\mu F^{\mu \nu} (x) = \frac{4 \pi} 
