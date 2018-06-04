@@ -25,4 +25,6 @@ Notation und Transformation partieller Ableitungen:
 
 - $$ \frac{\partial t_{ \nu \ \sigma}^{ \ \rho} }{\partial^\mu}  := \partial^\mu t_{ \nu _ \sigma}^{ \ \rho} \text{ ~ } \delta_{ \ \nu \ \ \sigma}^{ \mu \ \ \rho}  $$
 
-Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambda^\star_{\ \star}
+Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambda^\star_{\ \star} $$
+
+- $$ x'^\mu \text{ ~ } $$
