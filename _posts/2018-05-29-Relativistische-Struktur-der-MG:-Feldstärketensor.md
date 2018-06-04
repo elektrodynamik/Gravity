@@ -53,4 +53,4 @@ Falls IMG $$ \to $$ K ist LI, so gilt K $$ \Leftrightarrow \partial_\mu j^\mu = 
 
 ---
 
-$$ (\vec j^\mu (x) ) $$ 
+$$ (\vec j^\mu (x) ) = \begin{pmatrix} c \rho (x) \\ \vec j (x) $$ 
