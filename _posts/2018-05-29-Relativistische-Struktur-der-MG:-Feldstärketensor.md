@@ -75,8 +75,14 @@ $$\boxed{\partial_\mu j^\mu = 0 $$
 Definition: Feldstärketensor.
 
 
-$$ (F^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z & B_y \\ E_y & B_z & 0 &  -B_x \\ E_z & -B_y & B_x & 0 \end{pmatrix} $$ 
+$$ (F^{mu \nu} ) = \begin{pmatrix} 0 & - E_x & - E_y - & E_z \\ E_x & 0  & - B_z & B_y \\ E_y & B_z & 0 & -B_x \\ E_z & -B_y & B_x & 0 \end{pmatrix} $$ 
 
 - IMG umformuliert
 
 $$ \boxed{ \partial_\mu F^{\mu \nu} (x) = \frac{4 \pi}{c} j^\nu (x) } $$
+
+Nachrechnen zeigt: 
+
+- $$ \nu = 0; \vec \nabla \vec E = \frac{4 \pi}{c} c \rho $$ 
+
+- $$ \nu = i; \vec \nabla \wedge \vec B (x) - \partial_{ct} E(x) = \frac{4 \pi}{c} \vec j (x) 
