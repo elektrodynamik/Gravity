@@ -9,7 +9,7 @@ published: true
 
 ---
 
-- $$ t_\alpha^\beta_\gamma ~ x_\alpha y^\beta z_gamma $$
+- $$ t_\alpha^\beta_\gamma \tilde x_\alpha y^\beta z_gamma $$
 
 - $$ \partial_\mu := \frac{\partial}{\partial^\mu} ~ y_\mu \text{ d.h. } \partial'_ \mu ~ \Lambda_mu^{\ \nu} \partial_\nu $$
 
