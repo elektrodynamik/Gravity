@@ -138,7 +138,7 @@ $$ \partial_\mu j^\mu (x) = 0 $$ Kontinuitätsgleichung folgt aus Antisymmetrie 
 
 ---
 
-- $$ \vec \wedge \vec E + \partial_{ct} \vec B = 0 , \ \vec \nabla \vec B = 0 $$ sind LI d.h. gültig in allen IS.
+- $$ \vec \nabla \wedge \vec E + \partial_{ct} \vec B = 0 , \ \vec \nabla \vec B = 0 $$ sind LI d.h. gültig in allen IS.
 
 - Definition: Antisymmetrischer dualer Feldstärketensor
 
@@ -148,4 +148,8 @@ Hierbei bezeichnet $$ \epsilon^{\mu \nu \rho \sigma} $$ den kontravarianten voll
 
 Der duale Feldstärke Tensor sieht dann wie folgt aus: 
 
-$$ (\tilde{F}^{mu \nu} ) = \begin{pmatrix} 0 & - B_x & - B_y - & B_z \\ B_x & 0  & E_z & -E_y \\ B_y & -E_z & 0 & E_x \\ B_z & E_y & -E_x & 0 \end{pmatrix} $$ 
+$$ (\tilde{F}^{mu \nu} ) = \begin{pmatrix} 0 & - B_x & - B_y - & B_z \\ B_x & 0  & E_z & -E_y \\ B_y & -E_z & 0 & E_x \\ B_z & E_y & -E_x & 0 \end{pmatrix} $$
+
+- HMG ( II & III) umformuliert
+
+
