@@ -160,5 +160,5 @@ $$ \nu = i, \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0$$
 
 - HMG alternativ ohne $$ \tilde{F} $$ formuliert
 
-$$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \partial_{\gamma} F^{\alpha \beta} $$
+$$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \partial_{\gamma} F^{\alpha \beta} = 0 $$
 
