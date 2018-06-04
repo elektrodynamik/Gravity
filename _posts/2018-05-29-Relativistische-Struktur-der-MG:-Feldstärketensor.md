@@ -172,5 +172,7 @@ $$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \part
 
 - Weg: $$ \vec E $$ & $$ \vec B  \leftrigharrow  F^{\star \star} \stackrel{\Lambda}{\leftrightarrow} F'^{\star \star} \leftrightarrow \vec E', \vec B'$$
 
-- Explizites Resultat für S $$ \to $$ S' mit $$ \vec \beta = \frac{\vec v}{c} $$ 
+- Explizites Resultat für S $$ \to $$ S' mit $$ \vec \beta = \frac{\vec v}{c} $$ in S.
+
+$$ \vec E'(x') = \gamma(\vec E + \vec \beta \wedge \vec B)
 
