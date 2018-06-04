@@ -188,3 +188,5 @@ Analoges gilt für $$ \vec B_{\parallel}, \vec B_{\perp} $$
 
 - $$ B'_ {\perp} (x') = \gamma (\vec B_{\perp} - \vec \beta \wedge \vec E_{\perp} )
 
+Senkrechte Komponente ist nicht trivial. Parallele Komponenete bleibt unverändert.
+
