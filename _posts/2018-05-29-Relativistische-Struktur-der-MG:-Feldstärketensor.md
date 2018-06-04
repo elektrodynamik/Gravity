@@ -52,3 +52,5 @@ Ausbau für höhere partielle Ableitungen:
 Falls IMG $$ \to $$ K ist LI, so gilt K $$ \Leftrightarrow \partial_\mu j^\mu = 0 = \partial^\mu j_\mu $$
 
 ---
+
+$$ (\vec j^\mu (x) ) $$ 
