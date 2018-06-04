@@ -41,7 +41,7 @@ Ausbau für höhere partielle Ableitungen:
 
 ---
 
-## Inhomogene Maxwellgleichungen ( IMG)
+## Inhomogene Maxwellgleichungen (IMG)
 
 ---
 
