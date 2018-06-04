@@ -69,3 +69,5 @@ $$ \to \partial^\mu \text{ ~ } $$ kontravariante Vektorvariable, $$ j^\mu $$ kov
 $$ \to $$ K lautet:
 
 $$\boxed{\partial_\mu j^\mu = 0 $$ 
+
+- Ladung q ( Allgemein Anzahl an Elementarladungen)
