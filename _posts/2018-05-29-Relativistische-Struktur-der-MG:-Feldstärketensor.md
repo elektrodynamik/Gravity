@@ -184,4 +184,5 @@ Analoges gilt für $$ \vec B_{\parallel}, \vec B_{\perp} $$
 
 - $$ E'_ {\parallel} (x) = E_ {\parallel} (x) \\ B'_ {\parallel} (x) = B_ {\parallel} (x)$$
  
+- $$ E'_ {\perp} (x) 
 
