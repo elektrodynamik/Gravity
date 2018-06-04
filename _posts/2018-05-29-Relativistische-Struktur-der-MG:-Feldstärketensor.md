@@ -30,3 +30,5 @@ Herleitung mit $$ \ \Lambda_\star^{\ \star} \stackrel{\Lambda^{-1} }{\to} \Lambd
 - $$ x'^\mu \text{ ~ } \Lambda^\mu_ {\ \nu } x^{\nu} $$
 
 - $$ \Lambda_{\mu}^{ \ \kappa} x'^\mu = \Lambda_\mu^{ \ \kappa} \Lambda^\mu_{ \ \nu} x^\nu = x^\kappa  $$
+
+- 
