@@ -41,7 +41,7 @@ Ausbau für höhere partielle Ableitungen:
 
 ---
 
-## Inhomogene Maxwellgleichungen (IMG)
+## 4.2 Inhomogene Maxwellgleichungen (IMG)
 
 ---
 
@@ -131,3 +131,6 @@ $$ (\partial_\mu F^{\mu \nu} ) (x) = \frac{4 \pi}{c} j^\nu (x) $$
 $$ \partial_\nu ( \partial_\mu F^{\mu \nu} ) (x) = \frac{4 \pi}{c} \partial_\nu j^\nu (x) = 0 $$, weil $$ F^{\mu \nu}(x) = - F^{\nu \mu }(x) $$ 
 
 $$ \partial_\mu j^\mu (x) = 0 $$ Kontinuitätsgleichung folgt aus Antisymmetrie $$ F^{\star \star} \text{ ~ } F_{ \star \star} $$.
+
+---
+
