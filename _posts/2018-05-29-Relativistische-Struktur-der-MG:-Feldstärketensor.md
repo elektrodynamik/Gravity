@@ -154,7 +154,7 @@ $$ (\tilde{F}^{\mu \nu} ) = \begin{pmatrix} 0 & - B_x & - B_y - & B_z \\ B_x & 0
 
 $$\partial_\mu \tilde{F}^{\mu \nu} (x) = 0^\nu$$
 
-$$ \nu = 0, \vec \nabla \vec B = 0 $$ 
+$$ \nu = 0, \vec \nabla \vec B = \vec 0 $$ 
 
 $$ \nu = i, \vec \nabla \wedge \vec E + \partial_{ct} \vec B = \vec 0$$
 
