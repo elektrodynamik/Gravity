@@ -49,6 +49,6 @@ Ausbau für höhere partielle Ableitungen:
 
 - Kontinuitätsgleichung 'K': $$ \partial_{ct} c \rho + \vec \nabla \vec j $$ folgt aus IMG.
 
-Falls IMG $$ \to $$ K ist LI, so gilt K $$ \Leftrightarrow \partial_mu j^\mu = 0 = \partial^\mu j_\mu $$
+Falls IMG $$ \to $$ K ist LI, so gilt K $$ \Leftrightarrow \partial_\mu j^\mu = 0 = \partial^\mu j_\mu $$
 
 ---
