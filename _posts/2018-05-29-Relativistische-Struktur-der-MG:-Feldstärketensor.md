@@ -62,4 +62,4 @@ Definitionen:
 
 - $$ ( \partial^\mu ) = \begin{pmatrix} \partial_0 \\ -\vec \nabla \end{pmatrix} $$
 
-$$ \to \partial_\mu \text{ ~ } $$
+$$ \to \partial_\mu \text{ ~ } $$ kovariante Vektorvariable, $$ j^\mu $$ kontravariante VV $$ \to \partial_mu j^\mu $$ 
