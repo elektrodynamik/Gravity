@@ -59,3 +59,5 @@ Definitionen:
 - $$ ( \partial_\mu ) = \begin{pmatrix} \partial_0 \\ \vec \nabla \end{pmatrix} $$
 
 - $$ (\vec j^\mu (x) ) = \begin{pmatrix} c \rho (x) \\ \vec - j (x) \end{pmatrix} $$ 
+
+- $$ ( \partial^\mu ) = \begin{pmatrix} \partial_0 \\ \vec \nabla \end{pmatrix} $$
