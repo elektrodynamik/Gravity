@@ -168,5 +168,5 @@ $$ \partial_\alpha F^{\beta \gamma} + \partial_{\beta} F^{\gamma \alpha} + \part
 
 ---
 
-- Ziel: $$ \vec E $$ & $$ \vec B  \to $$ 
+- Ziel: $$ \vec E $$ & $$ \vec B $$ in S $$ \to $$ 
 
