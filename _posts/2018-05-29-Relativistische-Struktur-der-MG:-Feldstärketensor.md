@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Relativistische Struktur der MG: Feldstärketensor
 
@@ -11,4 +11,4 @@ published: false
 
 - $$ t_\alpha^\beta_\gamma ~ x_\alpha y^\beta z_gamma $$
 
-- $$ \partial_\mu := \frac{\partial}{\partial^\mu} ~ y_\mu \text{ d.h. } \partial'_ \mu $$
+- $$ \partial_\mu := \frac{\partial}{\partial^\mu} ~ y_\mu \text{ d.h. } \partial'_ \mu ~ \Lambda_mu^{\ \nu} \partial_\nu $$
