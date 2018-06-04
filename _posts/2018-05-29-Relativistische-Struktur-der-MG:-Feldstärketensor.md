@@ -11,7 +11,7 @@ published: true
 
 - Bisheriges Inventar $$ \{ x_\mu, y^\mu , x_\mu y^\mu, \delta^{\nu}_ { \ \mu} , \eta_{\mu \nu} \}  $$
 
-- $$ t_{ \alpha \ \beta}_ {  \gamma} \text{ ~ } x_\alpha y^\beta z_\gamma $$
+- $$ t_{ \alpha \  \beta}_ {  \gamma} \text{ ~ } x_\alpha y^\beta z_\gamma $$
 
 - $$ \partial_\mu := \frac{\partial}{\partial^\mu} \text{ ~ } y_\mu \text{ d.h. } \partial'_ \mu \text{ ~ } \Lambda_\mu^{\ \nu} \partial_\nu $$  
 
