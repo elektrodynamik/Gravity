@@ -182,6 +182,6 @@ $$ \vec B'(x') = \gamma(\vec B - \vec \beta \wedge \vec E) - \frac{\gamma^2}{1+\
 
 Analoges gilt für $$ \vec B_{\parallel}, \vec B_{\perp} $$
 
-- $$ E'_ {\parallel}
+- $$ E'_ {\parallel} (x) = E_ {\parallel} (x) $$
  
 
