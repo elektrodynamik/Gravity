@@ -99,4 +99,20 @@ Hierbei sind:
 
 $$ ( \partial_\mu ) = \begin{pmatrix} \partial_{ct} \\ \vec \nabla \end{pmatrix} $$
 
-$$ ( A^\mu ) = \begin{pmatrix} \phi \\ \vec A \end{pmatrix} $$
+$$ ( A^\mu ) = \begin{pmatrix} \phi \\ \vec A \end{pmatrix} $$ 
+
+$$ \to $$ LEB ist LI Bedingung! 
+
+- Potentialgleichungen
+
+- $$ \partial^2_{ct} \phi (x) - \Delta \phi (x) = 4 \pi \rho (x) $$ 
+
+- $$ \partial^2_{ct} \vec A(x) - \Delta \vec A (x) = \frac{4 \pi}{c} \vec j (x) $$
+
+$$ \to \square \phi (x) = 4 \pi \rho (x) $$
+
+$$ \to \sqaure \vec A (x) = \frac{4 \pi}{c} \vec j (x) $$ 
+
+Wird kombiniert zu:
+
+$$ \boxed{ \sqaure A^\mu = \frac{4 \pi}{c} j^\mu } $$
