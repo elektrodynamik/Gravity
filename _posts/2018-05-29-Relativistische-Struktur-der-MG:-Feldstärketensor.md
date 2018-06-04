@@ -37,5 +37,12 @@ Ausbau für höhere partielle Ableitungen:
 
 - $$ \frac{\partial}{\partial x^\mu} \frac{\partial}{\partial x^\nu} t^{\rho \sigma} \text{ ~ } \delta_{\mu \nu}^{\ \ \rho \sigma} $$
 
-- $$ \partial_\mu \partial^\mu f^\alpha_{\ \beta \gamma} \text{ ~ } f^\alpha_{\ \beta \gamma} \Rightarrow \partial_\mu \partial^\mu = \frac{1}{c^2} \partial^2_t - \Delta = \box $$
+- $$ \partial_\mu \partial^\mu f^\alpha_{\ \beta \gamma} \text{ ~ } f^\alpha_{\ \beta \gamma} \Rightarrow \partial_\mu \partial^\mu = \frac{1}{c^2} \partial^2_t - \Delta = \box $$ ist ein Lorenzskalar.
 
+---
+
+Inhomogene Maxwellgleichungen
+
+---
+
+- $$ \vec \nabla E = 4 \pi \rho , \vec \nabla \wedge \vec B - \partial_{ct} \vec E = \frac{4 \pi}{c} \vec j $$
