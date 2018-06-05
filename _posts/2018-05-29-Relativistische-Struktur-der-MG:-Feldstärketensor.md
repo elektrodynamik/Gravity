@@ -68,7 +68,7 @@ $$ \to \partial^\mu \text{ ~ } $$ kontravariante Vektorvariable, $$ j^\mu $$ kov
 
 $$ \to $$ K lautet:
 
-$$\boxed{\partial_\mu j^\mu = 0 $$ 
+$$\boxed{\partial_\mu j^\mu} = 0 $$ 
 
 - Ladung q ( Allgemein Anzahl an Elementarladungen) ist LI. d$$q = \rm{d}^3x \rm{d} \frac{j^0}{c} $$ 
 
