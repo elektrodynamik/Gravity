@@ -184,9 +184,9 @@ Analoges gilt für $$ \vec B_{\parallel}, \vec B_{\perp} $$
 
 - $$ E'_ {\parallel} (x') = E_ {\parallel} (x) \\ B'_ {\parallel} (x') = B_ {\parallel} (x)$$
  
-- $$ E'_ {\perp} (x') = \gamma (\vec E_{\perp} + \vec \beta \wedge \vec B_{\perp} )
+- $$ E'_ {\perp} (x') = \gamma (\vec E_{\perp} + \vec \beta \wedge \vec B_{\perp} )$$
 
-- $$ B'_ {\perp} (x') = \gamma (\vec B_{\perp} - \vec \beta \wedge \vec E_{\perp} )
+- $$ B'_ {\perp} (x') = \gamma (\vec B_{\perp} - \vec \beta \wedge \vec E_{\perp} ) $$
 
 Senkrechte Komponente ist nicht trivial. Parallele Komponenete bleibt unverändert.
 
