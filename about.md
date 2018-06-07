@@ -32,6 +32,8 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
+4.0 [Relatativistische Struktur der MG: Feldstärketensor](https://elektrodynamik.github.io/2018/05/29/4.0-Relativistische-Struktur-der-MG-Feldst%C3%A4rketensor.html "Relatativistische Struktur der MG: Feldstärketensor")
+
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
 ### VI Elektrodynamik in materiellen Medien
