@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # 4.1 Relativistische Formulierung der MG: Faraday & E-P-Erhaltung
 
