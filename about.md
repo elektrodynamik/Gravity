@@ -34,6 +34,12 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 4.0 [Relatativistische Struktur der MG: Feldstärketensor](https://elektrodynamik.github.io/2018/05/29/4.0-Relativistische-Struktur-der-MG-Feldst%C3%A4rketensor.html "Relatativistische Struktur der MG: Feldstärketensor")
 
+4.05 [Relativistische Formulierung der MG: Faraday und E-P-Erhaltung](https://elektrodynamik.github.io/2018/06/05/4.05-Relativistische-Formulierung-der-M-G-Faraday-und-E-P-Erhaltung.html "Relativistische Formulierung der MG: Faraday und E-P-Erhaltung")
+
+5.0 [Abstrahlphänomene: Lienard Wiechert Potentiale ](https://elektrodynamik.github.io/2018/06/07/5.0-Abstrahlph%C3%A4nomene-Lienard-Wiechert-Potentiale.html "Abstrahlphänomene: Lienard Wiechert Potentiale ")
+
+5.6 [Abstrahlphänomene: Dipolstrahlung](https://elektrodynamik.github.io/2018/06/12/5.6-Abstrahlph%C3%A4nomene-Dipolstrahlung.html "Abstrahlphänomene: Dipolstrahlung")
+
 ### IV Abstrahlphänomene
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
 ### VI Elektrodynamik in materiellen Medien
