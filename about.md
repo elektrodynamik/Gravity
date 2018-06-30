@@ -32,17 +32,18 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
+### IV
 4.0 [Relatativistische Struktur der MG: Feldstärketensor](https://elektrodynamik.github.io/2018/05/29/4.0-Relativistische-Struktur-der-MG-Feldst%C3%A4rketensor.html "Relatativistische Struktur der MG: Feldstärketensor")
 
 4.05 [Relativistische Formulierung der MG: Faraday und E-P-Erhaltung](https://elektrodynamik.github.io/2018/06/05/4.05-Relativistische-Formulierung-der-M-G-Faraday-und-E-P-Erhaltung.html "Relativistische Formulierung der MG: Faraday und E-P-Erhaltung")
 
-### IV Abstrahlphänomene
+### V Abstrahlphänomene
 
 5.0 [Abstrahlphänomene: Lienard Wiechert Potentiale ](https://elektrodynamik.github.io/2018/06/07/5.0-Abstrahlph%C3%A4nomene-Lienard-Wiechert-Potentiale.html "Abstrahlphänomene: Lienard Wiechert Potentiale ")
 
 5.6 [Abstrahlphänomene: Dipolstrahlung](https://elektrodynamik.github.io/2018/06/12/5.6-Abstrahlph%C3%A4nomene-Dipolstrahlung.html "Abstrahlphänomene: Dipolstrahlung")
-### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
+### VI Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
 
-### VI Elektrodynamik in materiellen Medien
-### VII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
-### VIII Lagrange-Formalismus der Elektrodynamik
+### VII Elektrodynamik in materiellen Medien
+### VIII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
+### IX Lagrange-Formalismus der Elektrodynamik
