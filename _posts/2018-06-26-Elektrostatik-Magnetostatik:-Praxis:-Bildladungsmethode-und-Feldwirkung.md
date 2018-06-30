@@ -10,3 +10,5 @@ published: false
 $$ -\Delta \phi = 0 \text{ (L)} $$
 
 $$ -\Delta \phi = 4 \pi \rho \text{ (P) } $$
+
+$$ \text{D-RB}: \phi(\vec x) = \int_V {\rm d}^3 x' G(\vec x,\vec x') $$
