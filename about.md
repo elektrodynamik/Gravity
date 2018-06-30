@@ -22,7 +22,7 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 2.1 [Greensche Funktion](https://elektrodynamik.github.io/2018/04/26/2.1-Entkopplung-via-Eichpotentiale-Greensche-Funktion.html "Entkopplung via Eichpotentiale: Greensche Funktion ")
 
-### III Relativistische Formulierung der Elektrodynamik
+### III Relativistische Kinematik/Mechanik
 
 3.0 [Spezielle Relativitätstheorie * ](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie " ) 
 
@@ -42,6 +42,7 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 5.6 [Abstrahlphänomene: Dipolstrahlung](https://elektrodynamik.github.io/2018/06/12/5.6-Abstrahlph%C3%A4nomene-Dipolstrahlung.html "Abstrahlphänomene: Dipolstrahlung")
 ### V Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
+
 ### VI Elektrodynamik in materiellen Medien
 ### VII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
 ### VIII Lagrange-Formalismus der Elektrodynamik
