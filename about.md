@@ -49,7 +49,9 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 6.6 [Elektrostatik Magnetostatik: Praxis: Bildladungsmethode und Feldwirkung](https://elektrodynamik.github.io/2018/06/26/6.6-Elektrostatik-Magnetostatik-Praxis-Bildladungsmethode-und-Feldwirkung.html "Elektrostatik Magnetostatik: Praxis: Bildladungsmethode und Feldwirkung")
 
-### VII Elektrodynamik in materiellen Medien
+### VII Elektromagnetische Felder in Materie
+
+
 
 ### VIII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
 ### IX Lagrange-Formalismus der Elektrodynamik
