@@ -9,4 +9,4 @@ published: false
 
 $$ -\Delta \phi = 0 \text{ (L)} $$
 
-$$ -\Delta \phi = 4 \pi \rho \text{ (P) }$$
+$$ -\Delta \phi = 4 \pi \rho \text{ (P) } $$
