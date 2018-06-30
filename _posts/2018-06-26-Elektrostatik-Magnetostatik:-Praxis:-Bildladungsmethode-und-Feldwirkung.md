@@ -8,3 +8,5 @@ published: false
 ## Wiederholung:
 
 $$ -\Delta \phi = 0 \text{ (L)} $$
+
+$$ -\Delta \phi = 4 \pi \rho
