@@ -43,6 +43,9 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 5.6 [Abstrahlphänomene: Dipolstrahlung](https://elektrodynamik.github.io/2018/06/12/5.6-Abstrahlph%C3%A4nomene-Dipolstrahlung.html "Abstrahlphänomene: Dipolstrahlung")
 ### VI Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
+6.0 [Elektrostatik Magnetostatik: Stationäre Q J Verteilungen](https://elektrodynamik.github.io/2018/06/19/6.0-Elektrostatik-Magnetostatik-Station%C3%A4re-Q-J-Verteilungen.html "Elektrostatik Magnetostatik: Stationäre Q J Verteilungen")
+
+6.4 [Elektrostatik Magnetostatik: Entwicklung Des Vektorpotentials und Randwertprobleme](https://elektrodynamik.github.io/2018/06/21/6.4-Elektrostatik-Magnetostatik-Entwicklung-des-Vektorpotentials-und-Randwertprobleme.html "Elektrostatik Magnetostatik: Entwicklung Des Vektorpotentials und Randwertprobleme")
 
 ### VII Elektrodynamik in materiellen Medien
 ### VIII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
