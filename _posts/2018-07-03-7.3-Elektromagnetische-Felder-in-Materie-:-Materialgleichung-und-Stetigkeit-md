@@ -1,0 +1,32 @@
+---
+published: true
+---
+# 7.3 Elektromagnetische Felder: Materialgleichung und Stetigkeit
+
+---
+
+## Wiederholung
+
+---
+
+- Makromittel (ca. 1000 Angström)
+
+- Splitting der Kontinuitätsgleichung
+
+$$\langle \rho_{\rm tot.} \rangle = \langle \rho_{\rm frei} \rangle - \langle \vec P \rangle $$
+
+$$ \dfrac{1}{c} \langle \vec j_{\rm tot.} = \dfrac{1}{c} \langle \vec j_{\rm frei} \rangle + \partial_{ct} \langle \vec P \rangle + \vec \nabla \wedge \langle \vec M \rangle  $$
+
+- Phänomenologische Maxwell-Gleichungen
+
+$$ \vec D = 4\pi \rho_f $$
+
+$$ \vec \nabla \wedge \vec E + \partial_{ct} = 0$$
+
+$$ \vec \nabla \vec B = 0$$
+
+$$ \vec \nabla \wedge \vec H - \partial_{ct} \vec D = \dfrac{4\pi}{c} \vec j_f$$
+
+---
+
+## 7.3 Mat
