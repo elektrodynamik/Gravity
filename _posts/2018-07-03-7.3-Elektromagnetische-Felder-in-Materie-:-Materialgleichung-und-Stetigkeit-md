@@ -21,7 +21,7 @@ $$ \dfrac{1}{c} \langle \vec j_{\rm tot.} = \dfrac{1}{c} \langle \vec j_{\rm fre
 
 $$ \vec D = 4\pi \rho_f $$
 
-$$ \vec \nabla \wedge \vec E + \partial_{ct} = 0$$
+$$ \vec \nabla \wedge \vec E + \partial_{ct} = 0 $$
 
 $$ \vec \nabla \vec B = 0$$
 
