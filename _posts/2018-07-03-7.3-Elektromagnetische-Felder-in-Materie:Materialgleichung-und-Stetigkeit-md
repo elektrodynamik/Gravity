@@ -17,7 +17,7 @@ $$\langle \rho_{\rm tot.} \rangle = \langle \rho_{\rm frei} \rangle - \langle \v
 
 $$ \dfrac{1}{c} \langle \vec j_{\rm tot.} = \dfrac{1}{c} \langle \vec j_{\rm frei} \rangle + \partial_{ct} \langle \vec P \rangle + \vec \nabla \wedge \langle \vec M \rangle  $$
 
-- Phänomenlogische Maxwell-Gleichungen
+- Phänomenologische Maxwell-Gleichungen
 
 $$ \vec D = 4\pi \rho_f $$
 
@@ -25,4 +25,4 @@ $$ \vec \nabla \wedge \vec E + \partial_{ct} = 0$$
 
 $$ \vec \nabla \vec B = 0$$
 
-$$ \vec \nabla \wedge \vec H - \partial_{ct}$$
+$$ \vec \nabla \wedge \vec H - \partial_{ct} \vec D = \dfrac{$$
