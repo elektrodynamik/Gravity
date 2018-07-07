@@ -14,3 +14,5 @@ published: false
 - Splitting der Kontinuitätsgleichung
 
 $$\langle \rho_{\rm tot.} \rangle = \langle \rho_{\rm frei} \rangle - \langle \vec P \rangle $$
+
+$$ \dfrac{1}{c} \langle \vec j_{\rm tot.} \rangle
