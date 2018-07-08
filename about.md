@@ -4,6 +4,10 @@ title: Überblick
 permalink: /uberblick/
 published: true
 ---
+<p align = "center">
+<img src="https://raw.githubusercontent.com/elektrodynamik/elektrodynamik.github.io/master/_assets/lagrangian.png"/>
+</p>
+
 # Überblick
 
 Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehen.
