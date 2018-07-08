@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="http://i.imgur.com/JhbQ03z.png"/>
+<img src="https://raw.githubusercontent.com/elektrodynamik/elektrodynamik.github.io/master/_assets/lagrangian.png"/>
 </p>
 
 ---
