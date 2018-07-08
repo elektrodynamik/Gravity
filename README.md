@@ -3,180 +3,56 @@
 </p>
 
 ---
+# Überblick
 
-If there's any issue you are facing in setting up this theme I'm there for you. Just create an issue in this repository (<http://github.com/hemangsk/Gravity>), (<https://help.github.com/articles/creating-an-issue/>) and I'll get back to you asap.
+Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehen.
 
-![Welcome to Gravity](https://user-images.githubusercontent.com/13018570/27043040-778d80cc-4fb6-11e7-8619-de4be626be67.png)
-<img src="http://i.imgur.com/cPwoX3E.png"/>
-<img src="http://i.imgur.com/3TMoBGj.png"/>
-<img src="http://i.imgur.com/Z6h3uCp.png"/>
-<img src="http://i.imgur.com/bB7IIHr.png"/>
+### I Maxwell-Gleichungen ( diff. Form $$ \Longleftrightarrow $$ int. Form)
 
-***
+1.0 [Einführung](https://elektrodynamik.github.io/2018/04/12/1.0-Maxwell-Gleichungen-Einführung.html "Maxwell-Gleichungen: Einführung")
 
-# INSTALLATION
+1.1 [Interpretationen und integrale Form](https://elektrodynamik.github.io/2018/04/17/1.1-Maxwell-Gleichungen-Interpretationen.html "Maxwell-Gleichungen: Interpretationen und integrale Form")
 
-### Dependencies
+1.2 [Erhaltungssätze](https://elektrodynamik.github.io/2018/04/19/1.2-Maxwell-Gleichungen-Erhaltungssätze.html "Maxwell-Gleichungen: Erhaltungssätze")
 
-Gravity uses Jekyll and it's built-in SCSS compiler for the associated CSS, so the first thing you'll need is Jekyll itself:
+### II Lösung via Eichpotentiale $$ (\phi , \vec A)  $$
 
-```bash
-$ gem install jekyll
-```
+2.0 [Einführung](https://elektrodynamik.github.io/2018/04/24/2.0-Entkopplung-via-Eichpotentiale-Einführung.html "Entkopplung via Eichpotentiale: Einführung")
 
-In case you don't have the `bundler` gem installed already, you can install it as follows:
+2.1 [Greensche Funktion](https://elektrodynamik.github.io/2018/04/26/2.1-Entkopplung-via-Eichpotentiale-Greensche-Funktion.html "Entkopplung via Eichpotentiale: Greensche Funktion ")
 
-```bash
-$ gem install bundler
-```
+### III Relativistische Kinematik/Mechanik
 
-For pagination, Gravity uses the [jekyll-paginate](https://jekyllrb.com/docs/pagination/) gem :
+3.0 [Spezielle Relativitätstheorie * ](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie " ) 
 
-```bash
-$ gem install jekyll-paginate
-```
+3.1 [Spezielle Relativitätstheorie: Vierervektoren](https://elektrodynamik.github.io/2018/05/08/3.1-Spezielle-Relativitätstheorie-Vierervektoren.html "Spezielle Relativitätstheorie: Vierervektoren")
 
-***
+3.2 [Spezielle Reltativitätstheorie: Energie und Bewegungsgleichungen](https://elektrodynamik.github.io/2018/05/15/3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen.html "3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen")
 
-# USAGE
+3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
-Once you have the required gems, you can go ahead and clone the
-[Gravity repository](https://github.com/hemangsk/Gravity) or [download](https://github.com/hemangsk/Gravity/archive/master.zip)
-a zip of the master branch.
+### IV
+4.0 [Relatativistische Struktur der MG: Feldstärketensor](https://elektrodynamik.github.io/2018/05/29/4.0-Relativistische-Struktur-der-MG-Feldst%C3%A4rketensor.html "Relatativistische Struktur der MG: Feldstärketensor")
 
-Run :
+4.05 [Relativistische Formulierung der MG: Faraday und E-P-Erhaltung](https://elektrodynamik.github.io/2018/06/05/4.05-Relativistische-Formulierung-der-M-G-Faraday-und-E-P-Erhaltung.html "Relativistische Formulierung der MG: Faraday und E-P-Erhaltung")
 
-```bash
-$ jekyll serve
-```
+### V Abstrahlphänomene
 
-Jekyll should now be generating your content!
+5.0 [Abstrahlphänomene: Lienard Wiechert Potentiale ](https://elektrodynamik.github.io/2018/06/07/5.0-Abstrahlph%C3%A4nomene-Lienard-Wiechert-Potentiale.html "Abstrahlphänomene: Lienard Wiechert Potentiale ")
 
-***
+5.6 [Abstrahlphänomene: Dipolstrahlung](https://elektrodynamik.github.io/2018/06/12/5.6-Abstrahlph%C3%A4nomene-Dipolstrahlung.html "Abstrahlphänomene: Dipolstrahlung")
+### VI Elektrostatik, Magnetostatik, Multipolentwicklung und Randwertbedingungen
+6.0 [Elektrostatik Magnetostatik: Stationäre Q J Verteilungen](https://elektrodynamik.github.io/2018/06/19/6.0-Elektrostatik-Magnetostatik-Station%C3%A4re-Q-J-Verteilungen.html "Elektrostatik Magnetostatik: Stationäre Q J Verteilungen")
 
-# ADDING POSTS
+6.4 [Elektrostatik Magnetostatik: Entwicklung Des Vektorpotentials und Randwertprobleme](https://elektrodynamik.github.io/2018/06/21/6.4-Elektrostatik-Magnetostatik-Entwicklung-des-Vektorpotentials-und-Randwertprobleme.html "Elektrostatik Magnetostatik: Entwicklung Des Vektorpotentials und Randwertprobleme")
 
-The theme by default ships with starter posts located in `_posts/`. Delete these posts and add your content to the `_posts`
-folder to see them being served up by Jekyll. [This](https://jekyllrb.com/docs/posts/) would be a good guide to getting started on writing posts using Jekyll. We've added a concise guide below:
+6.6 [Elektrostatik Magnetostatik: Praxis: Bildladungsmethode und Feldwirkung](https://elektrodynamik.github.io/2018/06/26/6.6-Elektrostatik-Magnetostatik-Praxis-Bildladungsmethode-und-Feldwirkung.html "Elektrostatik Magnetostatik: Praxis: Bildladungsmethode und Feldwirkung")
 
-- Create a .markdown file inside `_posts` folder.
-- Name the file according to the format YY-MM-DD-[short name for your post].
-- `2016-03-30-i-love-design.markdown`
-- Write the *Front Matter* and content in the file.
+### VII Elektromagnetische Felder in Materie
 
-### FORMAT
+7.0 [Elektromagnetische Felder In Materie: Makroskopische Mittel und MG](https://elektrodynamik.github.io/2018/06/28/7.0-Elektromagnetische-Felder-in-Materie-Makroskopische-Mittel-und-MG.html "Elektromagnetische Felder In Materie: Makroskopische Mittel und MG")
 
-```
----
-layout: post | default | page
-title: String POST TITLE
-date: Time Stamp
-categories: String | Array of Strings CATEGORY / CATEGORIES
----
+7.3 [Elektromagnetische Felder In Materie : Materialgleichung und Stetigkeit](https://elektrodynamik.github.io/2018/07/03/7.3-Elektromagnetische-Felder-in-Materie-Materialgleichung-und-Stetigkeit.html "Elektromagnetische Felder In Materie : Materialgleichung und Stetigkeit")
 
----
-layout: post
-title: "The One with the Blackout"
-date: 2016-03-30 19:45:31 +0530
-categories: ["life", friends]
----
-```
-
-***
-
-# CREATE PAGES
-
-- Create a .md file in the root directory.
-- Name the file with the desired page link name.
-  `about.md`
-  `design.md`
-- Write the *Front Matter* and content in the file.
-
-### FORMAT
-
-```
----
-layout: page
-title: String TITLE OF THE WEBPAGE
-permalink: / String / PERMALINK FOR THE WEBPAGE
-tagline: String OPTIONAL GRAVITY FEATURE : TAGLINE FOR THE PAGE
----
-
----
-layout: page
-title: "Science"
-permalink: /science/
-tagline: "Humanity is overrated."
----
-```
-
-***
-
-#### Introducing
-
-# ARCHIVE PAGES
-
-#### You can display a list of all the posts corresponding to a particular category on a standalone page using the `ARCHIVE` layout.
-
-- Create a .md file in the root directory.
-- Name the file. Preferred name will be the name of the category.
-    \*`life.md`
-- Write the *Front Matter* and content in the file.
-
-### FORMAT
-
-```
----
-layout: archive ARCHIVE PAGE LAYOUT
-title: String TITLE OF THE WEBPAGE
-permalink: / String / PERMALINK FOR THE WEBPAGE
-tagline: String TAGLINE FOR THE PAGE
-category: String NAME OF THE CATEGORY OF WHICH THE PAGE WILL SHOW POSTS
----
-
----
-layout: archive
-title: "Design"
-permalink: "Design"
-tagline: "It's all about perception"
-category: "design"
----
-```
-
-#### DIRECTORY STRUCTURE
-
-```
-├── css                                         # => Output of the combined SASS files
-│   └── style.scss
-├── _includes                                   # => Contains partials that can be used with your layouts
-│   ├── footer.html
-│   ├── header.html
-│   ├── head.html
-│   ├── icon-github.html
-│   ├── icon-github.svg
-│   ├── icon-twitter.html
-│   └── icon-twitter.svg
-├── _layouts                                    # => Layout related HTML files
-│   ├── archive.html
-│   ├── default.html
-│   ├── page.html
-│   └── post.html
-├── _posts                                      # => posts, dynamic content. Follow the format: YEAR-MONTH-DAY-title.MARKUP
-│   ├── 2016-03-30-design-stories.markdown
-│   ├── 2016-03-30-science0.markdown
-│   ├── 2016-03-30-science.markdown
-│   └── 2016-03-30-welcome-to-jekyll.markdown
-└── _sass                                       # => SASS partials for styling
-|   ├── _base.scss
-|   ├── _layout.scss
-|   └── _syntax-highlighting.scss
-├── about.md
-├── _config.yml                                 # => Configuration options or flags for your site go here
-├── design.md
-├── download.md
-├── feed.xml
-├── index.html
-├── LICENSE.txt                                 # => Licensing information
-├── README.md
-└── science.md
-```
+### VIII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
+### IX Lagrange-Formalismus der Elektrodynamik
