@@ -51,7 +51,7 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 ### VII Elektromagnetische Felder in Materie
 
-
+7.0 [Elektromagnetische Felder In Materie: Makroskopische Mittel und MG](https://elektrodynamik.github.io/2018/06/28/7.0-Elektromagnetische-Felder-in-Materie-Makroskopische-Mittel-und-MG.html "Elektromagnetische Felder In Materie: Makroskopische Mittel und MG")
 
 ### VIII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
 ### IX Lagrange-Formalismus der Elektrodynamik
