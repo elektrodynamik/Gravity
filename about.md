@@ -61,4 +61,5 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 [8.0 Optik: Ebene Wellen in Medien, Reflexion und Brechung](https://elektrodynamik.github.io/2018/07/05/8.0-Optik-Ebene-Wellen-in-Medien,-Reflexion-und-Brechung.html "8.0 Optik: Ebene Wellen in Medien, Reflexion und Brechung")
 
 8.2 [8.2 Optik: Brechung und Dispersion](https://elektrodynamik.github.io/2018/07/10/8.2-Optik-Brechung-und-Dispersion.html "8.2 Optik: Brechung und Dispersion")
+
 ### IX Lagrange-Formalismus der Elektrodynamik
