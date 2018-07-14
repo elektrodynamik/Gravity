@@ -27,9 +27,9 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 3.0 [Spezielle Relativitätstheorie * ](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie " ) 
 
-3.1 [Spezielle Relativitätstheorie: Vierervektoren *](https://elektrodynamik.github.io/2018/05/08/3.1-Spezielle-Relativitätstheorie-Vierervektoren.html "Spezielle Relativitätstheorie: Vierervektoren")
+3.1 [Spezielle Relativitätstheorie: Vierervektoren * ](https://elektrodynamik.github.io/2018/05/08/3.1-Spezielle-Relativitätstheorie-Vierervektoren.html "Spezielle Relativitätstheorie: Vierervektoren")
 
-3.2 [Spezielle Reltativitätstheorie: Energie und Bewegungsgleichungen](https://elektrodynamik.github.io/2018/05/15/3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen.html "3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen")
+3.2 [Spezielle Reltativitätstheorie: Energie und Bewegungsgleichungen * ](https://elektrodynamik.github.io/2018/05/15/3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen.html "3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen")
 
 3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
