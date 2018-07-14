@@ -3,6 +3,7 @@
 </p>
 
 ---
+
 # Überblick
 
 Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehen.
@@ -25,13 +26,14 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 3.0 [Spezielle Relativitätstheorie * ](https://elektrodynamik.github.io/2018/05/03/3.0-Spezielle-Relativitätstheorie.html "Spezielle Relativitätstheorie " ) 
 
-3.1 [Spezielle Relativitätstheorie: Vierervektoren](https://elektrodynamik.github.io/2018/05/08/3.1-Spezielle-Relativitätstheorie-Vierervektoren.html "Spezielle Relativitätstheorie: Vierervektoren")
+3.1 [Spezielle Relativitätstheorie: Vierervektoren * ](https://elektrodynamik.github.io/2018/05/08/3.1-Spezielle-Relativitätstheorie-Vierervektoren.html "Spezielle Relativitätstheorie: Vierervektoren")
 
-3.2 [Spezielle Reltativitätstheorie: Energie und Bewegungsgleichungen](https://elektrodynamik.github.io/2018/05/15/3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen.html "3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen")
+3.2 [Spezielle Reltativitätstheorie: Energie und Bewegungsgleichungen * ](https://elektrodynamik.github.io/2018/05/15/3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen.html "3.2-Spezielle-Reltativitätstheorie-Energie-und-Bewegungsgleichungen")
 
-3.3 [Spezielle Relativitätstheorie: Stoßprozesse](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
+3.3 [Spezielle Relativitätstheorie: Stoßprozesse * ](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
-### IV
+### IV Relatativistische Struktur der MG
+
 4.0 [Relatativistische Struktur der MG: Feldstärketensor](https://elektrodynamik.github.io/2018/05/29/4.0-Relativistische-Struktur-der-MG-Feldst%C3%A4rketensor.html "Relatativistische Struktur der MG: Feldstärketensor")
 
 4.05 [Relativistische Formulierung der MG: Faraday und E-P-Erhaltung](https://elektrodynamik.github.io/2018/06/05/4.05-Relativistische-Formulierung-der-M-G-Faraday-und-E-P-Erhaltung.html "Relativistische Formulierung der MG: Faraday und E-P-Erhaltung")
@@ -55,4 +57,9 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 7.3 [Elektromagnetische Felder In Materie : Materialgleichung und Stetigkeit](https://elektrodynamik.github.io/2018/07/03/7.3-Elektromagnetische-Felder-in-Materie-Materialgleichung-und-Stetigkeit.html "Elektromagnetische Felder In Materie : Materialgleichung und Stetigkeit")
 
 ### VIII Wellen mit Dispersion, Brechung, Wellenleiter (bspw. Signalübertragung)
+
+[8.0 Optik: Ebene Wellen in Medien, Reflexion und Brechung](https://elektrodynamik.github.io/2018/07/05/8.0-Optik-Ebene-Wellen-in-Medien,-Reflexion-und-Brechung.html "8.0 Optik: Ebene Wellen in Medien, Reflexion und Brechung")
+
+8.2 [8.2 Optik: Brechung und Dispersion](https://elektrodynamik.github.io/2018/07/10/8.2-Optik-Brechung-und-Dispersion.html "8.2 Optik: Brechung und Dispersion")
+
 ### IX Lagrange-Formalismus der Elektrodynamik
