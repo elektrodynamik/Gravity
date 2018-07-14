@@ -33,7 +33,8 @@ Die mit ' * ' gekenzeichneten Kapitel sind als knappe Wiederholungen zu verstehe
 
 3.3 [Spezielle Relativitätstheorie: Stoßprozesse * ](https://elektrodynamik.github.io/2018/05/17/3.3-Spezielle-Relativitätstheorie-Stoßprozesse.html "Spezielle-Relativitätstheorie-Stoßprozesse")
 
-### IV
+### IV Relatativistische Struktur der MG
+
 4.0 [Relatativistische Struktur der MG: Feldstärketensor](https://elektrodynamik.github.io/2018/05/29/4.0-Relativistische-Struktur-der-MG-Feldst%C3%A4rketensor.html "Relatativistische Struktur der MG: Feldstärketensor")
 
 4.05 [Relativistische Formulierung der MG: Faraday und E-P-Erhaltung](https://elektrodynamik.github.io/2018/06/05/4.05-Relativistische-Formulierung-der-M-G-Faraday-und-E-P-Erhaltung.html "Relativistische Formulierung der MG: Faraday und E-P-Erhaltung")
